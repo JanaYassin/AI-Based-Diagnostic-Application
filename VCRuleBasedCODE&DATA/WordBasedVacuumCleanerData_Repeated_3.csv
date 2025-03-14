@@ -1,0 +1,991 @@
+Whistling Sound,Usage Duration,Tube Clog Status,Repair Status,Cleaning Status,Suction Efficiency,Hose Repair Status,Motor Condition,Noise Intensity,Fault
+yes,2,not clogged,needs repair,cleaned,high,no,good,high,sensor control red
+no,2,not clogged,needs repair,cleaned,high,no,good,high,stops every 2 minutes
+yes,0,not clogged,needs repair,needs deep cleaning,low,yes,good,high,stops every 2 minutes
+no,1,not clogged,fixed battery wire,need regular cleaning,high,no,good,normal,unexpected shutdown
+no,2,not clogged,needs repair,need regular cleaning,low,no,good,medium,battery not charging
+no,1,not clogged,needs repair,cleaned,low,yes,good,medium,"battery issue, cuts out in speeds 2 and 3"
+yes,1,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+yes,1,not clogged,needs repair,need regular cleaning,low,yes,good,high,motor overheating
+no,1,not clogged,needs repair,cleaned,low,no,needs attention,high,"does not start, checking on/off button"
+no,1,not clogged,needs repair,cleaned,low,no,needs attention,high,"does not start, checking on/off button"
+yes,1,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+yes,0,not clogged,needs repair,cleaned,low,no,good,high,"seeking durable vacuum for hardwood, medium-sized dog, and long hair"
+no,2,not clogged,needs repair,cleaned,high,no,good,high,continuous loud noise
+no,1,not clogged,needs repair,cleaned,low,no,needs attention,high,"does not start, checking on/off button"
+no,0,clogged,checked unclogged elbows,need regular cleaning,low,no,good,normal,unexpected shutdown
+no,2,not clogged,needs repair,cleaned,high,no,good,high,stops every 2 minutes
+no,1,not clogged,fixed battery wire,need regular cleaning,high,no,good,normal,continuous loud noise
+no,1,not clogged,needs repair,cleaned,high,no,good,medium,"broken vacuum cleaner belt, needs replacement"
+no,1,not clogged,needs repair,cleaned,high,no,good,high,stops every 2 minutes
+yes,0,not clogged,needs repair,cleaned,low,no,good,high,"seeking durable vacuum for hardwood, medium-sized dog, and long hair"
+no,1,clogged,check nozzle and clean tank/filter,need regular cleaning,low,no,good,normal,clogged nozzle
+yes,2,not clogged,needs repair,cleaned,low,no,needs attention,high,makes terrible noise after cleaning filters
+yes,1,not clogged,needs repair,cleaned,low,no,needs attention,high,"stops working, on/off button suspected"
+yes,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,low suction efficiency
+no,2,not clogged,needs repair,cleaned,high,no,good,high,stops every 2 minutes
+yes,1,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+yes,1,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+no,1,not clogged,fixed battery wire,need regular cleaning,high,no,good,normal,"battery pack not charging, possible wire issue"
+no,2,not clogged,needs repair,cleaned,high,no,good,high,low suction efficiency
+no,1,not clogged,needs repair,cleaned,low,no,needs attention,high,motor overheating
+yes,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+no,1,clogged,check nozzle and clean tank/filter,need regular cleaning,low,no,good,normal,clogged nozzle
+yes,1,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+no,2,not clogged,needs repair,cleaned,high,no,good,high,stops every 2 minutes
+no,2,not clogged,needs repair,cleaned,medium,no,good,medium,"intermittent power failure, loose wiring suspected"
+no,2,not clogged,needs repair,cleaned,high,no,good,high,stops every 2 minutes
+no,1,not clogged,needs repair,cleaned,low,no,needs attention,high,"no longer sucks, drying hepa filter"
+yes,1,not clogged,needs repair,cleaned,low,no,needs attention,high,battery not charging
+yes,1,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+yes,0,not clogged,needs repair,needs deep cleaning,low,yes,good,high,low suction efficiency
+yes,1,not clogged,needs repair,need regular cleaning,low,yes,good,high,motor overheating
+yes,1,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+yes,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+no,2,not clogged,needs repair,cleaned,high,no,good,high,continuous loud noise
+yes,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,battery not charging
+yes,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,low suction efficiency
+yes,2,not clogged,needs repair,cleaned,high,no,good,high,sensor control red
+no,1,not clogged,needs repair,cleaned,low,no,needs attention,high,"does not start, checking on/off button"
+no,2,not clogged,needs repair,cleaned,medium,no,good,medium,motor overheating
+no,2,not clogged,needs repair,need regular cleaning,low,no,good,medium,no suction
+no,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,motor overheating
+yes,1,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+yes,1,not clogged,needs repair,need regular cleaning,low,yes,overheating,very high,multiple clogs and overheating
+no,2,not clogged,needs repair,cleaned,high,no,good,high,stops every 2 minutes
+yes,0,not clogged,needs repair,needs deep cleaning,low,yes,good,high,stops every 2 minutes
+yes,1,not clogged,needs repair,need regular cleaning,low,yes,good,high,low suction efficiency
+no,1,not clogged,needs repair,cleaned,low,yes,good,medium,motor overheating
+no,1,not clogged,fixed battery wire,need regular cleaning,high,no,good,normal,motor overheating
+yes,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+no,1,not clogged,needs repair,cleaned,low,no,needs attention,high,"does not start, checking on/off button"
+no,1,not clogged,needs repair,cleaned,low,no,needs attention,high,motor overheating
+no,2,not clogged,needs repair,cleaned,medium,no,good,medium,"intermittent power failure, loose wiring suspected"
+no,1,clogged,check nozzle and clean tank/filter,need regular cleaning,low,no,good,normal,clogged nozzle
+yes,2,not clogged,needs repair,cleaned,high,no,good,high,motor overheating
+no,2,not clogged,needs repair,cleaned,high,no,good,high,motor overheating
+yes,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+no,1,clogged,check nozzle and clean tank/filter,need regular cleaning,low,no,good,normal,unexpected shutdown
+yes,1,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+no,2,not clogged,needs repair,cleaned,high,no,good,high,stops every 2 minutes
+no,1,not clogged,needs repair,cleaned,low,no,needs attention,high,"does not start, checking on/off button"
+yes,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,continuous loud noise
+yes,0,not clogged,needs repair,needs deep cleaning,low,yes,good,high,continuous loud noise
+no,1,not clogged,needs repair,cleaned,low,no,needs attention,high,"does not start, checking on/off button"
+yes,1,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+yes,1,not clogged,needs repair,need regular cleaning,low,yes,good,high,unexpected shutdown
+yes,0,not clogged,needs repair,needs deep cleaning,low,yes,good,high,stops every 2 minutes
+no,1,not clogged,needs repair,cleaned,high,no,good,medium,"broken vacuum cleaner belt, needs replacement"
+yes,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+yes,1,not clogged,needs repair,cleaned,low,no,needs attention,high,"stops working, on/off button suspected"
+yes,1,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+no,2,not clogged,needs repair,cleaned,high,no,good,high,motor overheating
+yes,0,not clogged,needs repair,needs deep cleaning,low,yes,good,high,stops every 2 minutes
+no,1,not clogged,needs repair,cleaned,high,no,good,high,stops every 2 minutes
+no,2,not clogged,needs repair,need regular cleaning,low,no,good,medium,no suction
+no,1,not clogged,needs repair,cleaned,high,no,good,medium,"broken vacuum cleaner belt, needs replacement"
+no,1,not clogged,needs repair,cleaned,low,yes,good,medium,"battery issue, cuts out in speeds 2 and 3"
+no,1,not clogged,needs repair,cleaned,low,no,needs attention,high,"does not start, checking on/off button"
+yes,0,not clogged,needs repair,cleaned,low,no,good,high,"seeking durable vacuum for hardwood, medium-sized dog, and long hair"
+yes,2,not clogged,needs repair,cleaned,low,no,needs attention,high,makes terrible noise after cleaning filters
+yes,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+yes,1,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+yes,1,not clogged,needs repair,need regular cleaning,low,yes,good,high,unexpected shutdown
+yes,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+yes,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+no,2,not clogged,needs repair,cleaned,medium,no,good,medium,"intermittent power failure, loose wiring suspected"
+yes,1,not clogged,needs repair,need regular cleaning,low,yes,good,high,battery not charging
+yes,2,not clogged,needs repair,cleaned,low,no,needs attention,high,makes terrible noise after cleaning filters
+no,2,not clogged,needs repair,cleaned,high,no,good,high,stops every 2 minutes
+no,2,not clogged,needs repair,cleaned,high,no,good,high,unexpected shutdown
+no,2,not clogged,needs repair,cleaned,high,no,good,high,unexpected shutdown
+no,2,not clogged,needs repair,cleaned,medium,no,good,medium,"intermittent power failure, loose wiring suspected"
+no,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+no,1,not clogged,needs repair,cleaned,medium,no,good,medium,intermittent cut out in speeds 2 and 3
+no,1,not clogged,needs repair,cleaned,medium,no,good,medium,low suction efficiency
+yes,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+no,0,clogged,checked unclogged elbows,need regular cleaning,low,no,good,normal,continuous loud noise
+no,1,not clogged,needs repair,cleaned,low,yes,good,medium,unexpected shutdown
+no,2,not clogged,needs repair,cleaned,high,no,good,high,stops every 2 minutes
+yes,2,not clogged,needs repair,cleaned,high,no,good,high,sensor control red
+no,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+no,1,not clogged,needs repair,cleaned,medium,no,good,medium,intermittent cut out in speeds 2 and 3
+yes,1,not clogged,needs repair,need regular cleaning,low,yes,good,high,low suction efficiency
+yes,0,not clogged,needs repair,cleaned,low,no,good,high,"seeking durable vacuum for hardwood, medium-sized dog, and long hair"
+yes,1,not clogged,needs repair,cleaned,low,no,needs attention,high,"stops working, on/off button suspected"
+no,2,not clogged,needs repair,cleaned,high,no,good,high,motor overheating
+yes,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+yes,1,not clogged,needs repair,cleaned,low,no,needs attention,high,motor overheating
+yes,1,not clogged,needs repair,cleaned,low,no,needs attention,high,"stops working, on/off button suspected"
+no,1,not clogged,needs repair,cleaned,low,no,needs attention,high,"no longer sucks, drying hepa filter"
+no,0,clogged,checked unclogged elbows,need regular cleaning,low,no,good,normal,"blocked elbows, possible hose clog"
+yes,1,not clogged,needs repair,need regular cleaning,low,yes,good,high,motor overheating
+yes,1,not clogged,needs repair,cleaned,low,no,needs attention,high,"stops working, on/off button suspected"
+no,1,clogged,check nozzle and clean tank/filter,need regular cleaning,low,no,good,normal,continuous loud noise
+no,1,not clogged,needs repair,cleaned,high,no,good,medium,"broken vacuum cleaner belt, needs replacement"
+yes,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+yes,2,not clogged,needs repair,cleaned,low,no,needs attention,high,low suction efficiency
+no,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+yes,1,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+yes,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,battery not charging
+yes,0,not clogged,needs repair,needs deep cleaning,low,yes,good,high,stops every 2 minutes
+yes,2,not clogged,needs repair,cleaned,low,no,needs attention,high,makes terrible noise after cleaning filters
+no,2,not clogged,needs repair,cleaned,high,no,good,high,stops every 2 minutes
+no,1,not clogged,needs repair,cleaned,high,no,good,medium,battery not charging
+no,1,not clogged,needs repair,cleaned,low,no,needs attention,high,"does not start, checking on/off button"
+no,2,not clogged,needs repair,cleaned,high,no,good,high,stops every 2 minutes
+no,1,not clogged,needs repair,cleaned,medium,no,good,medium,intermittent cut out in speeds 2 and 3
+no,1,not clogged,needs repair,cleaned,medium,no,good,medium,continuous loud noise
+no,1,not clogged,needs repair,cleaned,low,no,needs attention,high,"does not start, checking on/off button"
+no,1,not clogged,needs repair,cleaned,high,no,good,high,stops every 2 minutes
+no,2,not clogged,needs repair,cleaned,high,no,good,high,stops every 2 minutes
+yes,1,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+yes,1,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+no,2,not clogged,needs repair,cleaned,high,no,good,high,stops every 2 minutes
+no,2,not clogged,needs repair,cleaned,high,no,good,high,continuous loud noise
+yes,1,not clogged,needs repair,cleaned,low,no,needs attention,high,"stops working, on/off button suspected"
+no,1,not clogged,needs repair,cleaned,low,yes,good,medium,"battery issue, cuts out in speeds 2 and 3"
+no,1,not clogged,needs repair,cleaned,medium,no,good,medium,intermittent cut out in speeds 2 and 3
+no,1,not clogged,needs repair,cleaned,high,no,good,medium,motor overheating
+yes,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+no,2,not clogged,needs repair,need regular cleaning,low,no,good,medium,no suction
+no,2,not clogged,needs repair,cleaned,high,no,good,high,stops every 2 minutes
+no,2,not clogged,needs repair,cleaned,medium,no,good,medium,"intermittent power failure, loose wiring suspected"
+no,1,not clogged,needs repair,cleaned,medium,no,good,medium,intermittent cut out in speeds 2 and 3
+yes,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,low suction efficiency
+no,1,not clogged,needs repair,cleaned,medium,no,good,medium,intermittent cut out in speeds 2 and 3
+yes,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,low suction efficiency
+yes,1,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+yes,1,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+no,1,not clogged,needs repair,cleaned,low,no,needs attention,high,"does not start, checking on/off button"
+yes,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+no,2,not clogged,needs repair,need regular cleaning,low,no,good,medium,low suction efficiency
+yes,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,unexpected shutdown
+yes,0,not clogged,needs repair,cleaned,low,no,good,high,low suction efficiency
+yes,1,not clogged,needs repair,need regular cleaning,low,yes,good,high,continuous loud noise
+yes,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+no,1,not clogged,needs repair,cleaned,high,no,good,medium,"broken vacuum cleaner belt, needs replacement"
+no,2,not clogged,needs repair,cleaned,high,no,good,high,stops every 2 minutes
+yes,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,unexpected shutdown
+yes,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,low suction efficiency
+yes,2,not clogged,needs repair,cleaned,high,no,good,high,sensor control red
+yes,1,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+no,1,not clogged,needs repair,cleaned,low,no,needs attention,high,continuous loud noise
+no,2,not clogged,needs repair,need regular cleaning,low,no,good,medium,no suction
+no,2,not clogged,needs repair,cleaned,medium,no,good,medium,continuous loud noise
+yes,1,not clogged,needs repair,need regular cleaning,low,yes,good,high,continuous loud noise
+no,2,not clogged,needs repair,need regular cleaning,low,no,good,medium,no suction
+no,1,not clogged,needs repair,cleaned,low,no,needs attention,high,low suction efficiency
+no,1,not clogged,needs repair,cleaned,medium,no,good,medium,intermittent cut out in speeds 2 and 3
+yes,1,not clogged,needs repair,need regular cleaning,low,yes,good,high,battery not charging
+no,1,not clogged,needs repair,cleaned,high,no,good,medium,unexpected shutdown
+no,1,not clogged,needs repair,cleaned,low,no,needs attention,high,"does not start, checking on/off button"
+yes,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+yes,1,not clogged,needs repair,need regular cleaning,low,yes,good,high,unexpected shutdown
+yes,1,not clogged,needs repair,cleaned,low,no,needs attention,high,"stops working, on/off button suspected"
+no,1,clogged,check nozzle and clean tank/filter,need regular cleaning,low,no,good,normal,low suction efficiency
+no,1,not clogged,needs repair,cleaned,low,yes,good,medium,continuous loud noise
+yes,1,not clogged,needs repair,need regular cleaning,low,yes,overheating,very high,multiple clogs and overheating
+no,0,clogged,checked unclogged elbows,need regular cleaning,low,no,good,normal,"blocked elbows, possible hose clog"
+yes,1,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+yes,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+no,2,not clogged,needs repair,cleaned,medium,no,good,medium,"intermittent power failure, loose wiring suspected"
+no,2,not clogged,needs repair,cleaned,high,no,good,high,motor overheating
+yes,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,low suction efficiency
+no,1,not clogged,needs repair,cleaned,high,no,good,high,stops every 2 minutes
+yes,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+no,1,not clogged,needs repair,cleaned,medium,no,good,medium,unexpected shutdown
+no,2,not clogged,needs repair,cleaned,high,no,good,high,stops every 2 minutes
+no,2,not clogged,needs repair,need regular cleaning,low,no,good,medium,no suction
+yes,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+yes,1,not clogged,needs repair,need regular cleaning,low,yes,good,high,motor overheating
+no,1,not clogged,needs repair,cleaned,low,no,needs attention,high,"no longer sucks, drying hepa filter"
+no,1,not clogged,needs repair,cleaned,low,no,needs attention,high,"does not start, checking on/off button"
+no,1,not clogged,needs repair,cleaned,high,no,good,medium,"broken vacuum cleaner belt, needs replacement"
+no,1,not clogged,needs repair,cleaned,low,no,needs attention,high,"does not start, checking on/off button"
+yes,1,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+yes,0,not clogged,needs repair,needs deep cleaning,low,yes,good,high,stops every 2 minutes
+no,1,not clogged,needs repair,cleaned,low,no,needs attention,high,battery not charging
+no,1,clogged,check nozzle and clean tank/filter,need regular cleaning,low,no,good,normal,battery not charging
+no,1,clogged,check nozzle and clean tank/filter,need regular cleaning,low,no,good,normal,clogged nozzle
+yes,2,not clogged,needs repair,cleaned,high,no,good,high,sensor control red
+no,1,not clogged,needs repair,cleaned,low,no,needs attention,high,"does not start, checking on/off button"
+no,1,not clogged,needs repair,cleaned,low,no,needs attention,high,low suction efficiency
+no,2,not clogged,needs repair,cleaned,high,no,good,high,stops every 2 minutes
+yes,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+no,1,not clogged,needs repair,cleaned,high,no,good,medium,"broken vacuum cleaner belt, needs replacement"
+yes,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,battery not charging
+no,1,not clogged,needs repair,cleaned,high,no,good,medium,battery not charging
+yes,1,not clogged,needs repair,need regular cleaning,low,yes,good,high,continuous loud noise
+no,1,not clogged,fixed battery wire,need regular cleaning,high,no,good,normal,low suction efficiency
+no,1,not clogged,needs repair,cleaned,low,no,needs attention,high,"no longer sucks, drying hepa filter"
+yes,0,not clogged,needs repair,needs deep cleaning,low,yes,good,high,stops every 2 minutes
+yes,1,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+yes,1,not clogged,needs repair,need regular cleaning,low,yes,good,high,continuous loud noise
+yes,1,not clogged,needs repair,need regular cleaning,low,yes,good,high,low suction efficiency
+no,1,not clogged,needs repair,cleaned,high,no,good,medium,"broken vacuum cleaner belt, needs replacement"
+no,1,not clogged,needs repair,cleaned,high,no,good,high,stops every 2 minutes
+yes,0,not clogged,needs repair,cleaned,low,no,good,high,"seeking durable vacuum for hardwood, medium-sized dog, and long hair"
+yes,0,not clogged,needs repair,cleaned,low,no,good,high,"seeking durable vacuum for hardwood, medium-sized dog, and long hair"
+no,0,clogged,checked unclogged elbows,need regular cleaning,low,no,good,normal,"blocked elbows, possible hose clog"
+yes,0,not clogged,needs repair,needs deep cleaning,low,yes,good,high,stops every 2 minutes
+yes,2,not clogged,needs repair,cleaned,low,no,needs attention,high,makes terrible noise after cleaning filters
+yes,2,not clogged,needs repair,cleaned,low,no,needs attention,high,unexpected shutdown
+no,2,not clogged,needs repair,need regular cleaning,low,no,good,medium,no suction
+no,1,not clogged,fixed battery wire,need regular cleaning,high,no,good,normal,battery not charging
+no,0,clogged,checked unclogged elbows,need regular cleaning,low,no,good,normal,"blocked elbows, possible hose clog"
+no,1,not clogged,needs repair,cleaned,high,no,good,medium,"broken vacuum cleaner belt, needs replacement"
+yes,1,not clogged,needs repair,cleaned,low,no,needs attention,high,"stops working, on/off button suspected"
+no,1,not clogged,needs repair,cleaned,high,no,good,medium,motor overheating
+yes,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+no,2,not clogged,needs repair,need regular cleaning,low,no,good,medium,no suction
+yes,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+yes,1,not clogged,needs repair,need regular cleaning,low,yes,good,high,motor overheating
+yes,1,not clogged,needs repair,cleaned,low,no,needs attention,high,"stops working, on/off button suspected"
+no,0,clogged,checked unclogged elbows,need regular cleaning,low,no,good,normal,battery not charging
+yes,2,not clogged,needs repair,cleaned,high,no,good,high,sensor control red
+yes,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+no,1,not clogged,needs repair,cleaned,low,no,needs attention,high,"does not start, checking on/off button"
+yes,2,not clogged,needs repair,cleaned,high,no,good,high,unexpected shutdown
+yes,1,not clogged,needs repair,need regular cleaning,low,yes,overheating,very high,multiple clogs and overheating
+no,1,not clogged,needs repair,cleaned,high,no,good,medium,"broken vacuum cleaner belt, needs replacement"
+no,1,not clogged,fixed battery wire,need regular cleaning,high,no,good,normal,"battery pack not charging, possible wire issue"
+no,1,not clogged,needs repair,cleaned,medium,no,good,medium,battery not charging
+no,1,not clogged,needs repair,cleaned,low,yes,good,medium,continuous loud noise
+no,1,not clogged,needs repair,cleaned,high,no,good,medium,"broken vacuum cleaner belt, needs replacement"
+yes,1,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+no,1,not clogged,needs repair,cleaned,low,no,needs attention,high,"does not start, checking on/off button"
+no,1,clogged,check nozzle and clean tank/filter,need regular cleaning,low,no,good,normal,clogged nozzle
+yes,1,not clogged,needs repair,need regular cleaning,low,yes,overheating,very high,motor overheating
+yes,1,not clogged,needs repair,need regular cleaning,low,yes,good,high,motor overheating
+no,1,not clogged,needs repair,cleaned,low,no,needs attention,high,"does not start, checking on/off button"
+no,1,not clogged,needs repair,cleaned,medium,no,good,medium,intermittent cut out in speeds 2 and 3
+yes,0,not clogged,needs repair,cleaned,low,no,good,high,"seeking durable vacuum for hardwood, medium-sized dog, and long hair"
+no,1,not clogged,needs repair,cleaned,low,yes,good,medium,battery not charging
+no,2,not clogged,needs repair,cleaned,high,no,good,high,stops every 2 minutes
+yes,2,not clogged,needs repair,cleaned,low,no,needs attention,high,continuous loud noise
+no,2,not clogged,needs repair,cleaned,high,no,good,high,stops every 2 minutes
+no,2,not clogged,needs repair,cleaned,medium,no,good,medium,low suction efficiency
+yes,1,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+no,1,not clogged,needs repair,cleaned,high,no,good,medium,motor overheating
+no,2,not clogged,needs repair,cleaned,high,no,good,high,stops every 2 minutes
+yes,2,not clogged,needs repair,cleaned,high,no,good,high,motor overheating
+no,2,not clogged,needs repair,cleaned,medium,no,good,medium,"intermittent power failure, loose wiring suspected"
+no,1,clogged,check nozzle and clean tank/filter,need regular cleaning,low,no,good,normal,continuous loud noise
+no,1,not clogged,needs repair,cleaned,low,no,needs attention,high,motor overheating
+no,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,continuous loud noise
+yes,1,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+no,1,not clogged,needs repair,cleaned,low,no,needs attention,high,"no longer sucks, drying hepa filter"
+yes,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,motor overheating
+yes,0,not clogged,needs repair,needs deep cleaning,low,yes,good,high,unexpected shutdown
+yes,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+yes,1,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+no,1,not clogged,needs repair,cleaned,high,no,good,high,unexpected shutdown
+no,1,not clogged,needs repair,cleaned,low,yes,good,medium,"battery issue, cuts out in speeds 2 and 3"
+no,2,not clogged,needs repair,cleaned,high,no,good,high,stops every 2 minutes
+yes,1,not clogged,needs repair,cleaned,low,no,needs attention,high,"stops working, on/off button suspected"
+no,2,not clogged,needs repair,need regular cleaning,low,no,good,medium,no suction
+no,2,not clogged,needs repair,cleaned,high,no,good,high,unexpected shutdown
+no,1,not clogged,needs repair,cleaned,medium,no,good,medium,continuous loud noise
+no,1,not clogged,needs repair,cleaned,low,yes,good,medium,"battery issue, cuts out in speeds 2 and 3"
+yes,0,not clogged,needs repair,cleaned,low,no,good,high,"seeking durable vacuum for hardwood, medium-sized dog, and long hair"
+no,1,clogged,check nozzle and clean tank/filter,need regular cleaning,low,no,good,normal,clogged nozzle
+yes,0,not clogged,needs repair,cleaned,low,no,good,high,"seeking durable vacuum for hardwood, medium-sized dog, and long hair"
+yes,0,not clogged,needs repair,cleaned,low,no,good,high,"seeking durable vacuum for hardwood, medium-sized dog, and long hair"
+yes,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+no,2,not clogged,needs repair,cleaned,high,no,good,high,stops every 2 minutes
+no,1,not clogged,needs repair,cleaned,high,no,good,medium,"broken vacuum cleaner belt, needs replacement"
+yes,0,not clogged,needs repair,needs deep cleaning,low,yes,good,high,stops every 2 minutes
+yes,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+yes,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+yes,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,low suction efficiency
+no,1,not clogged,needs repair,cleaned,medium,no,good,medium,intermittent cut out in speeds 2 and 3
+no,0,clogged,checked unclogged elbows,need regular cleaning,low,no,good,normal,"blocked elbows, possible hose clog"
+yes,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+no,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,battery not charging
+no,0,clogged,checked unclogged elbows,need regular cleaning,low,no,good,normal,"blocked elbows, possible hose clog"
+no,2,not clogged,needs repair,need regular cleaning,low,no,good,medium,no suction
+yes,1,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+no,2,not clogged,needs repair,need regular cleaning,low,no,good,medium,continuous loud noise
+yes,1,not clogged,needs repair,cleaned,low,no,needs attention,high,low suction efficiency
+no,2,not clogged,needs repair,cleaned,medium,no,good,medium,"intermittent power failure, loose wiring suspected"
+no,2,not clogged,needs repair,cleaned,medium,no,good,medium,unexpected shutdown
+no,1,not clogged,needs repair,cleaned,low,yes,good,medium,low suction efficiency
+no,2,not clogged,needs repair,cleaned,high,no,good,high,stops every 2 minutes
+no,1,not clogged,needs repair,cleaned,high,no,good,high,stops every 2 minutes
+yes,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,unexpected shutdown
+yes,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+no,2,not clogged,needs repair,need regular cleaning,low,no,good,medium,no suction
+no,1,not clogged,needs repair,cleaned,medium,no,good,medium,intermittent cut out in speeds 2 and 3
+no,1,clogged,check nozzle and clean tank/filter,need regular cleaning,low,no,good,normal,clogged nozzle
+yes,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,motor overheating
+yes,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,unexpected shutdown
+yes,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,motor overheating
+yes,0,not clogged,needs repair,cleaned,low,no,good,high,"seeking durable vacuum for hardwood, medium-sized dog, and long hair"
+yes,2,not clogged,needs repair,cleaned,high,no,good,high,sensor control red
+yes,1,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+no,1,not clogged,needs repair,cleaned,high,no,good,high,continuous loud noise
+no,2,not clogged,needs repair,cleaned,medium,no,good,medium,"intermittent power failure, loose wiring suspected"
+yes,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+yes,0,not clogged,needs repair,cleaned,low,no,good,high,"seeking durable vacuum for hardwood, medium-sized dog, and long hair"
+yes,2,not clogged,needs repair,cleaned,high,no,good,high,sensor control red
+yes,2,not clogged,needs repair,cleaned,high,no,good,high,sensor control red
+no,2,not clogged,needs repair,cleaned,high,no,good,high,stops every 2 minutes
+yes,0,not clogged,needs repair,needs deep cleaning,low,yes,good,high,stops every 2 minutes
+no,1,not clogged,fixed battery wire,need regular cleaning,high,no,good,normal,unexpected shutdown
+no,2,not clogged,needs repair,need regular cleaning,low,no,good,medium,battery not charging
+no,1,not clogged,needs repair,cleaned,low,yes,good,medium,"battery issue, cuts out in speeds 2 and 3"
+yes,1,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+yes,1,not clogged,needs repair,need regular cleaning,low,yes,good,high,motor overheating
+no,1,not clogged,needs repair,cleaned,low,no,needs attention,high,"does not start, checking on/off button"
+no,1,not clogged,needs repair,cleaned,low,no,needs attention,high,"does not start, checking on/off button"
+yes,1,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+yes,0,not clogged,needs repair,cleaned,low,no,good,high,"seeking durable vacuum for hardwood, medium-sized dog, and long hair"
+no,2,not clogged,needs repair,cleaned,high,no,good,high,continuous loud noise
+no,1,not clogged,needs repair,cleaned,low,no,needs attention,high,"does not start, checking on/off button"
+no,0,clogged,checked unclogged elbows,need regular cleaning,low,no,good,normal,unexpected shutdown
+no,2,not clogged,needs repair,cleaned,high,no,good,high,stops every 2 minutes
+no,1,not clogged,fixed battery wire,need regular cleaning,high,no,good,normal,continuous loud noise
+no,1,not clogged,needs repair,cleaned,high,no,good,medium,"broken vacuum cleaner belt, needs replacement"
+no,1,not clogged,needs repair,cleaned,high,no,good,high,stops every 2 minutes
+yes,0,not clogged,needs repair,cleaned,low,no,good,high,"seeking durable vacuum for hardwood, medium-sized dog, and long hair"
+no,1,clogged,check nozzle and clean tank/filter,need regular cleaning,low,no,good,normal,clogged nozzle
+yes,2,not clogged,needs repair,cleaned,low,no,needs attention,high,makes terrible noise after cleaning filters
+yes,1,not clogged,needs repair,cleaned,low,no,needs attention,high,"stops working, on/off button suspected"
+yes,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,low suction efficiency
+no,2,not clogged,needs repair,cleaned,high,no,good,high,stops every 2 minutes
+yes,1,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+yes,1,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+no,1,not clogged,fixed battery wire,need regular cleaning,high,no,good,normal,"battery pack not charging, possible wire issue"
+no,2,not clogged,needs repair,cleaned,high,no,good,high,low suction efficiency
+no,1,not clogged,needs repair,cleaned,low,no,needs attention,high,motor overheating
+yes,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+no,1,clogged,check nozzle and clean tank/filter,need regular cleaning,low,no,good,normal,clogged nozzle
+yes,1,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+no,2,not clogged,needs repair,cleaned,high,no,good,high,stops every 2 minutes
+no,2,not clogged,needs repair,cleaned,medium,no,good,medium,"intermittent power failure, loose wiring suspected"
+no,2,not clogged,needs repair,cleaned,high,no,good,high,stops every 2 minutes
+no,1,not clogged,needs repair,cleaned,low,no,needs attention,high,"no longer sucks, drying hepa filter"
+yes,1,not clogged,needs repair,cleaned,low,no,needs attention,high,battery not charging
+yes,1,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+yes,0,not clogged,needs repair,needs deep cleaning,low,yes,good,high,low suction efficiency
+yes,1,not clogged,needs repair,need regular cleaning,low,yes,good,high,motor overheating
+yes,1,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+yes,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+no,2,not clogged,needs repair,cleaned,high,no,good,high,continuous loud noise
+yes,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,battery not charging
+yes,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,low suction efficiency
+yes,2,not clogged,needs repair,cleaned,high,no,good,high,sensor control red
+no,1,not clogged,needs repair,cleaned,low,no,needs attention,high,"does not start, checking on/off button"
+no,2,not clogged,needs repair,cleaned,medium,no,good,medium,motor overheating
+no,2,not clogged,needs repair,need regular cleaning,low,no,good,medium,no suction
+no,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,motor overheating
+yes,1,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+yes,1,not clogged,needs repair,need regular cleaning,low,yes,overheating,very high,multiple clogs and overheating
+no,2,not clogged,needs repair,cleaned,high,no,good,high,stops every 2 minutes
+yes,0,not clogged,needs repair,needs deep cleaning,low,yes,good,high,stops every 2 minutes
+yes,1,not clogged,needs repair,need regular cleaning,low,yes,good,high,low suction efficiency
+no,1,not clogged,needs repair,cleaned,low,yes,good,medium,motor overheating
+no,1,not clogged,fixed battery wire,need regular cleaning,high,no,good,normal,motor overheating
+yes,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+no,1,not clogged,needs repair,cleaned,low,no,needs attention,high,"does not start, checking on/off button"
+no,1,not clogged,needs repair,cleaned,low,no,needs attention,high,motor overheating
+no,2,not clogged,needs repair,cleaned,medium,no,good,medium,"intermittent power failure, loose wiring suspected"
+no,1,clogged,check nozzle and clean tank/filter,need regular cleaning,low,no,good,normal,clogged nozzle
+yes,2,not clogged,needs repair,cleaned,high,no,good,high,motor overheating
+no,2,not clogged,needs repair,cleaned,high,no,good,high,motor overheating
+yes,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+no,1,clogged,check nozzle and clean tank/filter,need regular cleaning,low,no,good,normal,unexpected shutdown
+yes,1,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+no,2,not clogged,needs repair,cleaned,high,no,good,high,stops every 2 minutes
+no,1,not clogged,needs repair,cleaned,low,no,needs attention,high,"does not start, checking on/off button"
+yes,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,continuous loud noise
+yes,0,not clogged,needs repair,needs deep cleaning,low,yes,good,high,continuous loud noise
+no,1,not clogged,needs repair,cleaned,low,no,needs attention,high,"does not start, checking on/off button"
+yes,1,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+yes,1,not clogged,needs repair,need regular cleaning,low,yes,good,high,unexpected shutdown
+yes,0,not clogged,needs repair,needs deep cleaning,low,yes,good,high,stops every 2 minutes
+no,1,not clogged,needs repair,cleaned,high,no,good,medium,"broken vacuum cleaner belt, needs replacement"
+yes,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+yes,1,not clogged,needs repair,cleaned,low,no,needs attention,high,"stops working, on/off button suspected"
+yes,1,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+no,2,not clogged,needs repair,cleaned,high,no,good,high,motor overheating
+yes,0,not clogged,needs repair,needs deep cleaning,low,yes,good,high,stops every 2 minutes
+no,1,not clogged,needs repair,cleaned,high,no,good,high,stops every 2 minutes
+no,2,not clogged,needs repair,need regular cleaning,low,no,good,medium,no suction
+no,1,not clogged,needs repair,cleaned,high,no,good,medium,"broken vacuum cleaner belt, needs replacement"
+no,1,not clogged,needs repair,cleaned,low,yes,good,medium,"battery issue, cuts out in speeds 2 and 3"
+no,1,not clogged,needs repair,cleaned,low,no,needs attention,high,"does not start, checking on/off button"
+yes,0,not clogged,needs repair,cleaned,low,no,good,high,"seeking durable vacuum for hardwood, medium-sized dog, and long hair"
+yes,2,not clogged,needs repair,cleaned,low,no,needs attention,high,makes terrible noise after cleaning filters
+yes,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+yes,1,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+yes,1,not clogged,needs repair,need regular cleaning,low,yes,good,high,unexpected shutdown
+yes,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+yes,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+no,2,not clogged,needs repair,cleaned,medium,no,good,medium,"intermittent power failure, loose wiring suspected"
+yes,1,not clogged,needs repair,need regular cleaning,low,yes,good,high,battery not charging
+yes,2,not clogged,needs repair,cleaned,low,no,needs attention,high,makes terrible noise after cleaning filters
+no,2,not clogged,needs repair,cleaned,high,no,good,high,stops every 2 minutes
+no,2,not clogged,needs repair,cleaned,high,no,good,high,unexpected shutdown
+no,2,not clogged,needs repair,cleaned,high,no,good,high,unexpected shutdown
+no,2,not clogged,needs repair,cleaned,medium,no,good,medium,"intermittent power failure, loose wiring suspected"
+no,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+no,1,not clogged,needs repair,cleaned,medium,no,good,medium,intermittent cut out in speeds 2 and 3
+no,1,not clogged,needs repair,cleaned,medium,no,good,medium,low suction efficiency
+yes,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+no,0,clogged,checked unclogged elbows,need regular cleaning,low,no,good,normal,continuous loud noise
+no,1,not clogged,needs repair,cleaned,low,yes,good,medium,unexpected shutdown
+no,2,not clogged,needs repair,cleaned,high,no,good,high,stops every 2 minutes
+yes,2,not clogged,needs repair,cleaned,high,no,good,high,sensor control red
+no,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+no,1,not clogged,needs repair,cleaned,medium,no,good,medium,intermittent cut out in speeds 2 and 3
+yes,1,not clogged,needs repair,need regular cleaning,low,yes,good,high,low suction efficiency
+yes,0,not clogged,needs repair,cleaned,low,no,good,high,"seeking durable vacuum for hardwood, medium-sized dog, and long hair"
+yes,1,not clogged,needs repair,cleaned,low,no,needs attention,high,"stops working, on/off button suspected"
+no,2,not clogged,needs repair,cleaned,high,no,good,high,motor overheating
+yes,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+yes,1,not clogged,needs repair,cleaned,low,no,needs attention,high,motor overheating
+yes,1,not clogged,needs repair,cleaned,low,no,needs attention,high,"stops working, on/off button suspected"
+no,1,not clogged,needs repair,cleaned,low,no,needs attention,high,"no longer sucks, drying hepa filter"
+no,0,clogged,checked unclogged elbows,need regular cleaning,low,no,good,normal,"blocked elbows, possible hose clog"
+yes,1,not clogged,needs repair,need regular cleaning,low,yes,good,high,motor overheating
+yes,1,not clogged,needs repair,cleaned,low,no,needs attention,high,"stops working, on/off button suspected"
+no,1,clogged,check nozzle and clean tank/filter,need regular cleaning,low,no,good,normal,continuous loud noise
+no,1,not clogged,needs repair,cleaned,high,no,good,medium,"broken vacuum cleaner belt, needs replacement"
+yes,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+yes,2,not clogged,needs repair,cleaned,low,no,needs attention,high,low suction efficiency
+no,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+yes,1,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+yes,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,battery not charging
+yes,0,not clogged,needs repair,needs deep cleaning,low,yes,good,high,stops every 2 minutes
+yes,2,not clogged,needs repair,cleaned,low,no,needs attention,high,makes terrible noise after cleaning filters
+no,2,not clogged,needs repair,cleaned,high,no,good,high,stops every 2 minutes
+no,1,not clogged,needs repair,cleaned,high,no,good,medium,battery not charging
+no,1,not clogged,needs repair,cleaned,low,no,needs attention,high,"does not start, checking on/off button"
+no,2,not clogged,needs repair,cleaned,high,no,good,high,stops every 2 minutes
+no,1,not clogged,needs repair,cleaned,medium,no,good,medium,intermittent cut out in speeds 2 and 3
+no,1,not clogged,needs repair,cleaned,medium,no,good,medium,continuous loud noise
+no,1,not clogged,needs repair,cleaned,low,no,needs attention,high,"does not start, checking on/off button"
+no,1,not clogged,needs repair,cleaned,high,no,good,high,stops every 2 minutes
+no,2,not clogged,needs repair,cleaned,high,no,good,high,stops every 2 minutes
+yes,1,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+yes,1,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+no,2,not clogged,needs repair,cleaned,high,no,good,high,stops every 2 minutes
+no,2,not clogged,needs repair,cleaned,high,no,good,high,continuous loud noise
+yes,1,not clogged,needs repair,cleaned,low,no,needs attention,high,"stops working, on/off button suspected"
+no,1,not clogged,needs repair,cleaned,low,yes,good,medium,"battery issue, cuts out in speeds 2 and 3"
+no,1,not clogged,needs repair,cleaned,medium,no,good,medium,intermittent cut out in speeds 2 and 3
+no,1,not clogged,needs repair,cleaned,high,no,good,medium,motor overheating
+yes,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+no,2,not clogged,needs repair,need regular cleaning,low,no,good,medium,no suction
+no,2,not clogged,needs repair,cleaned,high,no,good,high,stops every 2 minutes
+no,2,not clogged,needs repair,cleaned,medium,no,good,medium,"intermittent power failure, loose wiring suspected"
+no,1,not clogged,needs repair,cleaned,medium,no,good,medium,intermittent cut out in speeds 2 and 3
+yes,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,low suction efficiency
+no,1,not clogged,needs repair,cleaned,medium,no,good,medium,intermittent cut out in speeds 2 and 3
+yes,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,low suction efficiency
+yes,1,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+yes,1,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+no,1,not clogged,needs repair,cleaned,low,no,needs attention,high,"does not start, checking on/off button"
+yes,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+no,2,not clogged,needs repair,need regular cleaning,low,no,good,medium,low suction efficiency
+yes,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,unexpected shutdown
+yes,0,not clogged,needs repair,cleaned,low,no,good,high,low suction efficiency
+yes,1,not clogged,needs repair,need regular cleaning,low,yes,good,high,continuous loud noise
+yes,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+no,1,not clogged,needs repair,cleaned,high,no,good,medium,"broken vacuum cleaner belt, needs replacement"
+no,2,not clogged,needs repair,cleaned,high,no,good,high,stops every 2 minutes
+yes,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,unexpected shutdown
+yes,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,low suction efficiency
+yes,2,not clogged,needs repair,cleaned,high,no,good,high,sensor control red
+yes,1,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+no,1,not clogged,needs repair,cleaned,low,no,needs attention,high,continuous loud noise
+no,2,not clogged,needs repair,need regular cleaning,low,no,good,medium,no suction
+no,2,not clogged,needs repair,cleaned,medium,no,good,medium,continuous loud noise
+yes,1,not clogged,needs repair,need regular cleaning,low,yes,good,high,continuous loud noise
+no,2,not clogged,needs repair,need regular cleaning,low,no,good,medium,no suction
+no,1,not clogged,needs repair,cleaned,low,no,needs attention,high,low suction efficiency
+no,1,not clogged,needs repair,cleaned,medium,no,good,medium,intermittent cut out in speeds 2 and 3
+yes,1,not clogged,needs repair,need regular cleaning,low,yes,good,high,battery not charging
+no,1,not clogged,needs repair,cleaned,high,no,good,medium,unexpected shutdown
+no,1,not clogged,needs repair,cleaned,low,no,needs attention,high,"does not start, checking on/off button"
+yes,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+yes,1,not clogged,needs repair,need regular cleaning,low,yes,good,high,unexpected shutdown
+yes,1,not clogged,needs repair,cleaned,low,no,needs attention,high,"stops working, on/off button suspected"
+no,1,clogged,check nozzle and clean tank/filter,need regular cleaning,low,no,good,normal,low suction efficiency
+no,1,not clogged,needs repair,cleaned,low,yes,good,medium,continuous loud noise
+yes,1,not clogged,needs repair,need regular cleaning,low,yes,overheating,very high,multiple clogs and overheating
+no,0,clogged,checked unclogged elbows,need regular cleaning,low,no,good,normal,"blocked elbows, possible hose clog"
+yes,1,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+yes,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+no,2,not clogged,needs repair,cleaned,medium,no,good,medium,"intermittent power failure, loose wiring suspected"
+no,2,not clogged,needs repair,cleaned,high,no,good,high,motor overheating
+yes,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,low suction efficiency
+no,1,not clogged,needs repair,cleaned,high,no,good,high,stops every 2 minutes
+yes,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+no,1,not clogged,needs repair,cleaned,medium,no,good,medium,unexpected shutdown
+no,2,not clogged,needs repair,cleaned,high,no,good,high,stops every 2 minutes
+no,2,not clogged,needs repair,need regular cleaning,low,no,good,medium,no suction
+yes,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+yes,1,not clogged,needs repair,need regular cleaning,low,yes,good,high,motor overheating
+no,1,not clogged,needs repair,cleaned,low,no,needs attention,high,"no longer sucks, drying hepa filter"
+no,1,not clogged,needs repair,cleaned,low,no,needs attention,high,"does not start, checking on/off button"
+no,1,not clogged,needs repair,cleaned,high,no,good,medium,"broken vacuum cleaner belt, needs replacement"
+no,1,not clogged,needs repair,cleaned,low,no,needs attention,high,"does not start, checking on/off button"
+yes,1,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+yes,0,not clogged,needs repair,needs deep cleaning,low,yes,good,high,stops every 2 minutes
+no,1,not clogged,needs repair,cleaned,low,no,needs attention,high,battery not charging
+no,1,clogged,check nozzle and clean tank/filter,need regular cleaning,low,no,good,normal,battery not charging
+no,1,clogged,check nozzle and clean tank/filter,need regular cleaning,low,no,good,normal,clogged nozzle
+yes,2,not clogged,needs repair,cleaned,high,no,good,high,sensor control red
+no,1,not clogged,needs repair,cleaned,low,no,needs attention,high,"does not start, checking on/off button"
+no,1,not clogged,needs repair,cleaned,low,no,needs attention,high,low suction efficiency
+no,2,not clogged,needs repair,cleaned,high,no,good,high,stops every 2 minutes
+yes,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+no,1,not clogged,needs repair,cleaned,high,no,good,medium,"broken vacuum cleaner belt, needs replacement"
+yes,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,battery not charging
+no,1,not clogged,needs repair,cleaned,high,no,good,medium,battery not charging
+yes,1,not clogged,needs repair,need regular cleaning,low,yes,good,high,continuous loud noise
+no,1,not clogged,fixed battery wire,need regular cleaning,high,no,good,normal,low suction efficiency
+no,1,not clogged,needs repair,cleaned,low,no,needs attention,high,"no longer sucks, drying hepa filter"
+yes,0,not clogged,needs repair,needs deep cleaning,low,yes,good,high,stops every 2 minutes
+yes,1,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+yes,1,not clogged,needs repair,need regular cleaning,low,yes,good,high,continuous loud noise
+yes,1,not clogged,needs repair,need regular cleaning,low,yes,good,high,low suction efficiency
+no,1,not clogged,needs repair,cleaned,high,no,good,medium,"broken vacuum cleaner belt, needs replacement"
+no,1,not clogged,needs repair,cleaned,high,no,good,high,stops every 2 minutes
+yes,0,not clogged,needs repair,cleaned,low,no,good,high,"seeking durable vacuum for hardwood, medium-sized dog, and long hair"
+yes,0,not clogged,needs repair,cleaned,low,no,good,high,"seeking durable vacuum for hardwood, medium-sized dog, and long hair"
+no,0,clogged,checked unclogged elbows,need regular cleaning,low,no,good,normal,"blocked elbows, possible hose clog"
+yes,0,not clogged,needs repair,needs deep cleaning,low,yes,good,high,stops every 2 minutes
+yes,2,not clogged,needs repair,cleaned,low,no,needs attention,high,makes terrible noise after cleaning filters
+yes,2,not clogged,needs repair,cleaned,low,no,needs attention,high,unexpected shutdown
+no,2,not clogged,needs repair,need regular cleaning,low,no,good,medium,no suction
+no,1,not clogged,fixed battery wire,need regular cleaning,high,no,good,normal,battery not charging
+no,0,clogged,checked unclogged elbows,need regular cleaning,low,no,good,normal,"blocked elbows, possible hose clog"
+no,1,not clogged,needs repair,cleaned,high,no,good,medium,"broken vacuum cleaner belt, needs replacement"
+yes,1,not clogged,needs repair,cleaned,low,no,needs attention,high,"stops working, on/off button suspected"
+no,1,not clogged,needs repair,cleaned,high,no,good,medium,motor overheating
+yes,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+no,2,not clogged,needs repair,need regular cleaning,low,no,good,medium,no suction
+yes,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+yes,1,not clogged,needs repair,need regular cleaning,low,yes,good,high,motor overheating
+yes,1,not clogged,needs repair,cleaned,low,no,needs attention,high,"stops working, on/off button suspected"
+no,0,clogged,checked unclogged elbows,need regular cleaning,low,no,good,normal,battery not charging
+yes,2,not clogged,needs repair,cleaned,high,no,good,high,sensor control red
+yes,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+no,1,not clogged,needs repair,cleaned,low,no,needs attention,high,"does not start, checking on/off button"
+yes,2,not clogged,needs repair,cleaned,high,no,good,high,unexpected shutdown
+yes,1,not clogged,needs repair,need regular cleaning,low,yes,overheating,very high,multiple clogs and overheating
+no,1,not clogged,needs repair,cleaned,high,no,good,medium,"broken vacuum cleaner belt, needs replacement"
+no,1,not clogged,fixed battery wire,need regular cleaning,high,no,good,normal,"battery pack not charging, possible wire issue"
+no,1,not clogged,needs repair,cleaned,medium,no,good,medium,battery not charging
+no,1,not clogged,needs repair,cleaned,low,yes,good,medium,continuous loud noise
+no,1,not clogged,needs repair,cleaned,high,no,good,medium,"broken vacuum cleaner belt, needs replacement"
+yes,1,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+no,1,not clogged,needs repair,cleaned,low,no,needs attention,high,"does not start, checking on/off button"
+no,1,clogged,check nozzle and clean tank/filter,need regular cleaning,low,no,good,normal,clogged nozzle
+yes,1,not clogged,needs repair,need regular cleaning,low,yes,overheating,very high,motor overheating
+yes,1,not clogged,needs repair,need regular cleaning,low,yes,good,high,motor overheating
+no,1,not clogged,needs repair,cleaned,low,no,needs attention,high,"does not start, checking on/off button"
+no,1,not clogged,needs repair,cleaned,medium,no,good,medium,intermittent cut out in speeds 2 and 3
+yes,0,not clogged,needs repair,cleaned,low,no,good,high,"seeking durable vacuum for hardwood, medium-sized dog, and long hair"
+no,1,not clogged,needs repair,cleaned,low,yes,good,medium,battery not charging
+no,2,not clogged,needs repair,cleaned,high,no,good,high,stops every 2 minutes
+yes,2,not clogged,needs repair,cleaned,low,no,needs attention,high,continuous loud noise
+no,2,not clogged,needs repair,cleaned,high,no,good,high,stops every 2 minutes
+no,2,not clogged,needs repair,cleaned,medium,no,good,medium,low suction efficiency
+yes,1,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+no,1,not clogged,needs repair,cleaned,high,no,good,medium,motor overheating
+no,2,not clogged,needs repair,cleaned,high,no,good,high,stops every 2 minutes
+yes,2,not clogged,needs repair,cleaned,high,no,good,high,motor overheating
+no,2,not clogged,needs repair,cleaned,medium,no,good,medium,"intermittent power failure, loose wiring suspected"
+no,1,clogged,check nozzle and clean tank/filter,need regular cleaning,low,no,good,normal,continuous loud noise
+no,1,not clogged,needs repair,cleaned,low,no,needs attention,high,motor overheating
+no,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,continuous loud noise
+yes,1,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+no,1,not clogged,needs repair,cleaned,low,no,needs attention,high,"no longer sucks, drying hepa filter"
+yes,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,motor overheating
+yes,0,not clogged,needs repair,needs deep cleaning,low,yes,good,high,unexpected shutdown
+yes,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+yes,1,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+no,1,not clogged,needs repair,cleaned,high,no,good,high,unexpected shutdown
+no,1,not clogged,needs repair,cleaned,low,yes,good,medium,"battery issue, cuts out in speeds 2 and 3"
+no,2,not clogged,needs repair,cleaned,high,no,good,high,stops every 2 minutes
+yes,1,not clogged,needs repair,cleaned,low,no,needs attention,high,"stops working, on/off button suspected"
+no,2,not clogged,needs repair,need regular cleaning,low,no,good,medium,no suction
+no,2,not clogged,needs repair,cleaned,high,no,good,high,unexpected shutdown
+no,1,not clogged,needs repair,cleaned,medium,no,good,medium,continuous loud noise
+no,1,not clogged,needs repair,cleaned,low,yes,good,medium,"battery issue, cuts out in speeds 2 and 3"
+yes,0,not clogged,needs repair,cleaned,low,no,good,high,"seeking durable vacuum for hardwood, medium-sized dog, and long hair"
+no,1,clogged,check nozzle and clean tank/filter,need regular cleaning,low,no,good,normal,clogged nozzle
+yes,0,not clogged,needs repair,cleaned,low,no,good,high,"seeking durable vacuum for hardwood, medium-sized dog, and long hair"
+yes,0,not clogged,needs repair,cleaned,low,no,good,high,"seeking durable vacuum for hardwood, medium-sized dog, and long hair"
+yes,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+no,2,not clogged,needs repair,cleaned,high,no,good,high,stops every 2 minutes
+no,1,not clogged,needs repair,cleaned,high,no,good,medium,"broken vacuum cleaner belt, needs replacement"
+yes,0,not clogged,needs repair,needs deep cleaning,low,yes,good,high,stops every 2 minutes
+yes,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+yes,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+yes,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,low suction efficiency
+no,1,not clogged,needs repair,cleaned,medium,no,good,medium,intermittent cut out in speeds 2 and 3
+no,0,clogged,checked unclogged elbows,need regular cleaning,low,no,good,normal,"blocked elbows, possible hose clog"
+yes,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+no,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,battery not charging
+no,0,clogged,checked unclogged elbows,need regular cleaning,low,no,good,normal,"blocked elbows, possible hose clog"
+no,2,not clogged,needs repair,need regular cleaning,low,no,good,medium,no suction
+yes,1,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+no,2,not clogged,needs repair,need regular cleaning,low,no,good,medium,continuous loud noise
+yes,1,not clogged,needs repair,cleaned,low,no,needs attention,high,low suction efficiency
+no,2,not clogged,needs repair,cleaned,medium,no,good,medium,"intermittent power failure, loose wiring suspected"
+no,2,not clogged,needs repair,cleaned,medium,no,good,medium,unexpected shutdown
+no,1,not clogged,needs repair,cleaned,low,yes,good,medium,low suction efficiency
+no,2,not clogged,needs repair,cleaned,high,no,good,high,stops every 2 minutes
+no,1,not clogged,needs repair,cleaned,high,no,good,high,stops every 2 minutes
+yes,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,unexpected shutdown
+yes,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+no,2,not clogged,needs repair,need regular cleaning,low,no,good,medium,no suction
+no,1,not clogged,needs repair,cleaned,medium,no,good,medium,intermittent cut out in speeds 2 and 3
+no,1,clogged,check nozzle and clean tank/filter,need regular cleaning,low,no,good,normal,clogged nozzle
+yes,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,motor overheating
+yes,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,unexpected shutdown
+yes,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,motor overheating
+yes,0,not clogged,needs repair,cleaned,low,no,good,high,"seeking durable vacuum for hardwood, medium-sized dog, and long hair"
+yes,2,not clogged,needs repair,cleaned,high,no,good,high,sensor control red
+yes,1,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+no,1,not clogged,needs repair,cleaned,high,no,good,high,continuous loud noise
+no,2,not clogged,needs repair,cleaned,medium,no,good,medium,"intermittent power failure, loose wiring suspected"
+yes,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+yes,0,not clogged,needs repair,cleaned,low,no,good,high,"seeking durable vacuum for hardwood, medium-sized dog, and long hair"
+yes,2,not clogged,needs repair,cleaned,high,no,good,high,sensor control red
+yes,2,not clogged,needs repair,cleaned,high,no,good,high,sensor control red
+no,2,not clogged,needs repair,cleaned,high,no,good,high,stops every 2 minutes
+yes,0,not clogged,needs repair,needs deep cleaning,low,yes,good,high,stops every 2 minutes
+no,1,not clogged,fixed battery wire,need regular cleaning,high,no,good,normal,unexpected shutdown
+no,2,not clogged,needs repair,need regular cleaning,low,no,good,medium,battery not charging
+no,1,not clogged,needs repair,cleaned,low,yes,good,medium,"battery issue, cuts out in speeds 2 and 3"
+yes,1,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+yes,1,not clogged,needs repair,need regular cleaning,low,yes,good,high,motor overheating
+no,1,not clogged,needs repair,cleaned,low,no,needs attention,high,"does not start, checking on/off button"
+no,1,not clogged,needs repair,cleaned,low,no,needs attention,high,"does not start, checking on/off button"
+yes,1,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+yes,0,not clogged,needs repair,cleaned,low,no,good,high,"seeking durable vacuum for hardwood, medium-sized dog, and long hair"
+no,2,not clogged,needs repair,cleaned,high,no,good,high,continuous loud noise
+no,1,not clogged,needs repair,cleaned,low,no,needs attention,high,"does not start, checking on/off button"
+no,0,clogged,checked unclogged elbows,need regular cleaning,low,no,good,normal,unexpected shutdown
+no,2,not clogged,needs repair,cleaned,high,no,good,high,stops every 2 minutes
+no,1,not clogged,fixed battery wire,need regular cleaning,high,no,good,normal,continuous loud noise
+no,1,not clogged,needs repair,cleaned,high,no,good,medium,"broken vacuum cleaner belt, needs replacement"
+no,1,not clogged,needs repair,cleaned,high,no,good,high,stops every 2 minutes
+yes,0,not clogged,needs repair,cleaned,low,no,good,high,"seeking durable vacuum for hardwood, medium-sized dog, and long hair"
+no,1,clogged,check nozzle and clean tank/filter,need regular cleaning,low,no,good,normal,clogged nozzle
+yes,2,not clogged,needs repair,cleaned,low,no,needs attention,high,makes terrible noise after cleaning filters
+yes,1,not clogged,needs repair,cleaned,low,no,needs attention,high,"stops working, on/off button suspected"
+yes,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,low suction efficiency
+no,2,not clogged,needs repair,cleaned,high,no,good,high,stops every 2 minutes
+yes,1,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+yes,1,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+no,1,not clogged,fixed battery wire,need regular cleaning,high,no,good,normal,"battery pack not charging, possible wire issue"
+no,2,not clogged,needs repair,cleaned,high,no,good,high,low suction efficiency
+no,1,not clogged,needs repair,cleaned,low,no,needs attention,high,motor overheating
+yes,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+no,1,clogged,check nozzle and clean tank/filter,need regular cleaning,low,no,good,normal,clogged nozzle
+yes,1,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+no,2,not clogged,needs repair,cleaned,high,no,good,high,stops every 2 minutes
+no,2,not clogged,needs repair,cleaned,medium,no,good,medium,"intermittent power failure, loose wiring suspected"
+no,2,not clogged,needs repair,cleaned,high,no,good,high,stops every 2 minutes
+no,1,not clogged,needs repair,cleaned,low,no,needs attention,high,"no longer sucks, drying hepa filter"
+yes,1,not clogged,needs repair,cleaned,low,no,needs attention,high,battery not charging
+yes,1,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+yes,0,not clogged,needs repair,needs deep cleaning,low,yes,good,high,low suction efficiency
+yes,1,not clogged,needs repair,need regular cleaning,low,yes,good,high,motor overheating
+yes,1,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+yes,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+no,2,not clogged,needs repair,cleaned,high,no,good,high,continuous loud noise
+yes,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,battery not charging
+yes,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,low suction efficiency
+yes,2,not clogged,needs repair,cleaned,high,no,good,high,sensor control red
+no,1,not clogged,needs repair,cleaned,low,no,needs attention,high,"does not start, checking on/off button"
+no,2,not clogged,needs repair,cleaned,medium,no,good,medium,motor overheating
+no,2,not clogged,needs repair,need regular cleaning,low,no,good,medium,no suction
+no,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,motor overheating
+yes,1,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+yes,1,not clogged,needs repair,need regular cleaning,low,yes,overheating,very high,multiple clogs and overheating
+no,2,not clogged,needs repair,cleaned,high,no,good,high,stops every 2 minutes
+yes,0,not clogged,needs repair,needs deep cleaning,low,yes,good,high,stops every 2 minutes
+yes,1,not clogged,needs repair,need regular cleaning,low,yes,good,high,low suction efficiency
+no,1,not clogged,needs repair,cleaned,low,yes,good,medium,motor overheating
+no,1,not clogged,fixed battery wire,need regular cleaning,high,no,good,normal,motor overheating
+yes,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+no,1,not clogged,needs repair,cleaned,low,no,needs attention,high,"does not start, checking on/off button"
+no,1,not clogged,needs repair,cleaned,low,no,needs attention,high,motor overheating
+no,2,not clogged,needs repair,cleaned,medium,no,good,medium,"intermittent power failure, loose wiring suspected"
+no,1,clogged,check nozzle and clean tank/filter,need regular cleaning,low,no,good,normal,clogged nozzle
+yes,2,not clogged,needs repair,cleaned,high,no,good,high,motor overheating
+no,2,not clogged,needs repair,cleaned,high,no,good,high,motor overheating
+yes,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+no,1,clogged,check nozzle and clean tank/filter,need regular cleaning,low,no,good,normal,unexpected shutdown
+yes,1,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+no,2,not clogged,needs repair,cleaned,high,no,good,high,stops every 2 minutes
+no,1,not clogged,needs repair,cleaned,low,no,needs attention,high,"does not start, checking on/off button"
+yes,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,continuous loud noise
+yes,0,not clogged,needs repair,needs deep cleaning,low,yes,good,high,continuous loud noise
+no,1,not clogged,needs repair,cleaned,low,no,needs attention,high,"does not start, checking on/off button"
+yes,1,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+yes,1,not clogged,needs repair,need regular cleaning,low,yes,good,high,unexpected shutdown
+yes,0,not clogged,needs repair,needs deep cleaning,low,yes,good,high,stops every 2 minutes
+no,1,not clogged,needs repair,cleaned,high,no,good,medium,"broken vacuum cleaner belt, needs replacement"
+yes,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+yes,1,not clogged,needs repair,cleaned,low,no,needs attention,high,"stops working, on/off button suspected"
+yes,1,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+no,2,not clogged,needs repair,cleaned,high,no,good,high,motor overheating
+yes,0,not clogged,needs repair,needs deep cleaning,low,yes,good,high,stops every 2 minutes
+no,1,not clogged,needs repair,cleaned,high,no,good,high,stops every 2 minutes
+no,2,not clogged,needs repair,need regular cleaning,low,no,good,medium,no suction
+no,1,not clogged,needs repair,cleaned,high,no,good,medium,"broken vacuum cleaner belt, needs replacement"
+no,1,not clogged,needs repair,cleaned,low,yes,good,medium,"battery issue, cuts out in speeds 2 and 3"
+no,1,not clogged,needs repair,cleaned,low,no,needs attention,high,"does not start, checking on/off button"
+yes,0,not clogged,needs repair,cleaned,low,no,good,high,"seeking durable vacuum for hardwood, medium-sized dog, and long hair"
+yes,2,not clogged,needs repair,cleaned,low,no,needs attention,high,makes terrible noise after cleaning filters
+yes,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+yes,1,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+yes,1,not clogged,needs repair,need regular cleaning,low,yes,good,high,unexpected shutdown
+yes,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+yes,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+no,2,not clogged,needs repair,cleaned,medium,no,good,medium,"intermittent power failure, loose wiring suspected"
+yes,1,not clogged,needs repair,need regular cleaning,low,yes,good,high,battery not charging
+yes,2,not clogged,needs repair,cleaned,low,no,needs attention,high,makes terrible noise after cleaning filters
+no,2,not clogged,needs repair,cleaned,high,no,good,high,stops every 2 minutes
+no,2,not clogged,needs repair,cleaned,high,no,good,high,unexpected shutdown
+no,2,not clogged,needs repair,cleaned,high,no,good,high,unexpected shutdown
+no,2,not clogged,needs repair,cleaned,medium,no,good,medium,"intermittent power failure, loose wiring suspected"
+no,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+no,1,not clogged,needs repair,cleaned,medium,no,good,medium,intermittent cut out in speeds 2 and 3
+no,1,not clogged,needs repair,cleaned,medium,no,good,medium,low suction efficiency
+yes,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+no,0,clogged,checked unclogged elbows,need regular cleaning,low,no,good,normal,continuous loud noise
+no,1,not clogged,needs repair,cleaned,low,yes,good,medium,unexpected shutdown
+no,2,not clogged,needs repair,cleaned,high,no,good,high,stops every 2 minutes
+yes,2,not clogged,needs repair,cleaned,high,no,good,high,sensor control red
+no,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+no,1,not clogged,needs repair,cleaned,medium,no,good,medium,intermittent cut out in speeds 2 and 3
+yes,1,not clogged,needs repair,need regular cleaning,low,yes,good,high,low suction efficiency
+yes,0,not clogged,needs repair,cleaned,low,no,good,high,"seeking durable vacuum for hardwood, medium-sized dog, and long hair"
+yes,1,not clogged,needs repair,cleaned,low,no,needs attention,high,"stops working, on/off button suspected"
+no,2,not clogged,needs repair,cleaned,high,no,good,high,motor overheating
+yes,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+yes,1,not clogged,needs repair,cleaned,low,no,needs attention,high,motor overheating
+yes,1,not clogged,needs repair,cleaned,low,no,needs attention,high,"stops working, on/off button suspected"
+no,1,not clogged,needs repair,cleaned,low,no,needs attention,high,"no longer sucks, drying hepa filter"
+no,0,clogged,checked unclogged elbows,need regular cleaning,low,no,good,normal,"blocked elbows, possible hose clog"
+yes,1,not clogged,needs repair,need regular cleaning,low,yes,good,high,motor overheating
+yes,1,not clogged,needs repair,cleaned,low,no,needs attention,high,"stops working, on/off button suspected"
+no,1,clogged,check nozzle and clean tank/filter,need regular cleaning,low,no,good,normal,continuous loud noise
+no,1,not clogged,needs repair,cleaned,high,no,good,medium,"broken vacuum cleaner belt, needs replacement"
+yes,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+yes,2,not clogged,needs repair,cleaned,low,no,needs attention,high,low suction efficiency
+no,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+yes,1,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+yes,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,battery not charging
+yes,0,not clogged,needs repair,needs deep cleaning,low,yes,good,high,stops every 2 minutes
+yes,2,not clogged,needs repair,cleaned,low,no,needs attention,high,makes terrible noise after cleaning filters
+no,2,not clogged,needs repair,cleaned,high,no,good,high,stops every 2 minutes
+no,1,not clogged,needs repair,cleaned,high,no,good,medium,battery not charging
+no,1,not clogged,needs repair,cleaned,low,no,needs attention,high,"does not start, checking on/off button"
+no,2,not clogged,needs repair,cleaned,high,no,good,high,stops every 2 minutes
+no,1,not clogged,needs repair,cleaned,medium,no,good,medium,intermittent cut out in speeds 2 and 3
+no,1,not clogged,needs repair,cleaned,medium,no,good,medium,continuous loud noise
+no,1,not clogged,needs repair,cleaned,low,no,needs attention,high,"does not start, checking on/off button"
+no,1,not clogged,needs repair,cleaned,high,no,good,high,stops every 2 minutes
+no,2,not clogged,needs repair,cleaned,high,no,good,high,stops every 2 minutes
+yes,1,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+yes,1,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+no,2,not clogged,needs repair,cleaned,high,no,good,high,stops every 2 minutes
+no,2,not clogged,needs repair,cleaned,high,no,good,high,continuous loud noise
+yes,1,not clogged,needs repair,cleaned,low,no,needs attention,high,"stops working, on/off button suspected"
+no,1,not clogged,needs repair,cleaned,low,yes,good,medium,"battery issue, cuts out in speeds 2 and 3"
+no,1,not clogged,needs repair,cleaned,medium,no,good,medium,intermittent cut out in speeds 2 and 3
+no,1,not clogged,needs repair,cleaned,high,no,good,medium,motor overheating
+yes,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+no,2,not clogged,needs repair,need regular cleaning,low,no,good,medium,no suction
+no,2,not clogged,needs repair,cleaned,high,no,good,high,stops every 2 minutes
+no,2,not clogged,needs repair,cleaned,medium,no,good,medium,"intermittent power failure, loose wiring suspected"
+no,1,not clogged,needs repair,cleaned,medium,no,good,medium,intermittent cut out in speeds 2 and 3
+yes,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,low suction efficiency
+no,1,not clogged,needs repair,cleaned,medium,no,good,medium,intermittent cut out in speeds 2 and 3
+yes,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,low suction efficiency
+yes,1,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+yes,1,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+no,1,not clogged,needs repair,cleaned,low,no,needs attention,high,"does not start, checking on/off button"
+yes,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+no,2,not clogged,needs repair,need regular cleaning,low,no,good,medium,low suction efficiency
+yes,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,unexpected shutdown
+yes,0,not clogged,needs repair,cleaned,low,no,good,high,low suction efficiency
+yes,1,not clogged,needs repair,need regular cleaning,low,yes,good,high,continuous loud noise
+yes,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+no,1,not clogged,needs repair,cleaned,high,no,good,medium,"broken vacuum cleaner belt, needs replacement"
+no,2,not clogged,needs repair,cleaned,high,no,good,high,stops every 2 minutes
+yes,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,unexpected shutdown
+yes,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,low suction efficiency
+yes,2,not clogged,needs repair,cleaned,high,no,good,high,sensor control red
+yes,1,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+no,1,not clogged,needs repair,cleaned,low,no,needs attention,high,continuous loud noise
+no,2,not clogged,needs repair,need regular cleaning,low,no,good,medium,no suction
+no,2,not clogged,needs repair,cleaned,medium,no,good,medium,continuous loud noise
+yes,1,not clogged,needs repair,need regular cleaning,low,yes,good,high,continuous loud noise
+no,2,not clogged,needs repair,need regular cleaning,low,no,good,medium,no suction
+no,1,not clogged,needs repair,cleaned,low,no,needs attention,high,low suction efficiency
+no,1,not clogged,needs repair,cleaned,medium,no,good,medium,intermittent cut out in speeds 2 and 3
+yes,1,not clogged,needs repair,need regular cleaning,low,yes,good,high,battery not charging
+no,1,not clogged,needs repair,cleaned,high,no,good,medium,unexpected shutdown
+no,1,not clogged,needs repair,cleaned,low,no,needs attention,high,"does not start, checking on/off button"
+yes,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+yes,1,not clogged,needs repair,need regular cleaning,low,yes,good,high,unexpected shutdown
+yes,1,not clogged,needs repair,cleaned,low,no,needs attention,high,"stops working, on/off button suspected"
+no,1,clogged,check nozzle and clean tank/filter,need regular cleaning,low,no,good,normal,low suction efficiency
+no,1,not clogged,needs repair,cleaned,low,yes,good,medium,continuous loud noise
+yes,1,not clogged,needs repair,need regular cleaning,low,yes,overheating,very high,multiple clogs and overheating
+no,0,clogged,checked unclogged elbows,need regular cleaning,low,no,good,normal,"blocked elbows, possible hose clog"
+yes,1,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+yes,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+no,2,not clogged,needs repair,cleaned,medium,no,good,medium,"intermittent power failure, loose wiring suspected"
+no,2,not clogged,needs repair,cleaned,high,no,good,high,motor overheating
+yes,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,low suction efficiency
+no,1,not clogged,needs repair,cleaned,high,no,good,high,stops every 2 minutes
+yes,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+no,1,not clogged,needs repair,cleaned,medium,no,good,medium,unexpected shutdown
+no,2,not clogged,needs repair,cleaned,high,no,good,high,stops every 2 minutes
+no,2,not clogged,needs repair,need regular cleaning,low,no,good,medium,no suction
+yes,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+yes,1,not clogged,needs repair,need regular cleaning,low,yes,good,high,motor overheating
+no,1,not clogged,needs repair,cleaned,low,no,needs attention,high,"no longer sucks, drying hepa filter"
+no,1,not clogged,needs repair,cleaned,low,no,needs attention,high,"does not start, checking on/off button"
+no,1,not clogged,needs repair,cleaned,high,no,good,medium,"broken vacuum cleaner belt, needs replacement"
+no,1,not clogged,needs repair,cleaned,low,no,needs attention,high,"does not start, checking on/off button"
+yes,1,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+yes,0,not clogged,needs repair,needs deep cleaning,low,yes,good,high,stops every 2 minutes
+no,1,not clogged,needs repair,cleaned,low,no,needs attention,high,battery not charging
+no,1,clogged,check nozzle and clean tank/filter,need regular cleaning,low,no,good,normal,battery not charging
+no,1,clogged,check nozzle and clean tank/filter,need regular cleaning,low,no,good,normal,clogged nozzle
+yes,2,not clogged,needs repair,cleaned,high,no,good,high,sensor control red
+no,1,not clogged,needs repair,cleaned,low,no,needs attention,high,"does not start, checking on/off button"
+no,1,not clogged,needs repair,cleaned,low,no,needs attention,high,low suction efficiency
+no,2,not clogged,needs repair,cleaned,high,no,good,high,stops every 2 minutes
+yes,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+no,1,not clogged,needs repair,cleaned,high,no,good,medium,"broken vacuum cleaner belt, needs replacement"
+yes,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,battery not charging
+no,1,not clogged,needs repair,cleaned,high,no,good,medium,battery not charging
+yes,1,not clogged,needs repair,need regular cleaning,low,yes,good,high,continuous loud noise
+no,1,not clogged,fixed battery wire,need regular cleaning,high,no,good,normal,low suction efficiency
+no,1,not clogged,needs repair,cleaned,low,no,needs attention,high,"no longer sucks, drying hepa filter"
+yes,0,not clogged,needs repair,needs deep cleaning,low,yes,good,high,stops every 2 minutes
+yes,1,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+yes,1,not clogged,needs repair,need regular cleaning,low,yes,good,high,continuous loud noise
+yes,1,not clogged,needs repair,need regular cleaning,low,yes,good,high,low suction efficiency
+no,1,not clogged,needs repair,cleaned,high,no,good,medium,"broken vacuum cleaner belt, needs replacement"
+no,1,not clogged,needs repair,cleaned,high,no,good,high,stops every 2 minutes
+yes,0,not clogged,needs repair,cleaned,low,no,good,high,"seeking durable vacuum for hardwood, medium-sized dog, and long hair"
+yes,0,not clogged,needs repair,cleaned,low,no,good,high,"seeking durable vacuum for hardwood, medium-sized dog, and long hair"
+no,0,clogged,checked unclogged elbows,need regular cleaning,low,no,good,normal,"blocked elbows, possible hose clog"
+yes,0,not clogged,needs repair,needs deep cleaning,low,yes,good,high,stops every 2 minutes
+yes,2,not clogged,needs repair,cleaned,low,no,needs attention,high,makes terrible noise after cleaning filters
+yes,2,not clogged,needs repair,cleaned,low,no,needs attention,high,unexpected shutdown
+no,2,not clogged,needs repair,need regular cleaning,low,no,good,medium,no suction
+no,1,not clogged,fixed battery wire,need regular cleaning,high,no,good,normal,battery not charging
+no,0,clogged,checked unclogged elbows,need regular cleaning,low,no,good,normal,"blocked elbows, possible hose clog"
+no,1,not clogged,needs repair,cleaned,high,no,good,medium,"broken vacuum cleaner belt, needs replacement"
+yes,1,not clogged,needs repair,cleaned,low,no,needs attention,high,"stops working, on/off button suspected"
+no,1,not clogged,needs repair,cleaned,high,no,good,medium,motor overheating
+yes,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+no,2,not clogged,needs repair,need regular cleaning,low,no,good,medium,no suction
+yes,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+yes,1,not clogged,needs repair,need regular cleaning,low,yes,good,high,motor overheating
+yes,1,not clogged,needs repair,cleaned,low,no,needs attention,high,"stops working, on/off button suspected"
+no,0,clogged,checked unclogged elbows,need regular cleaning,low,no,good,normal,battery not charging
+yes,2,not clogged,needs repair,cleaned,high,no,good,high,sensor control red
+yes,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+no,1,not clogged,needs repair,cleaned,low,no,needs attention,high,"does not start, checking on/off button"
+yes,2,not clogged,needs repair,cleaned,high,no,good,high,unexpected shutdown
+yes,1,not clogged,needs repair,need regular cleaning,low,yes,overheating,very high,multiple clogs and overheating
+no,1,not clogged,needs repair,cleaned,high,no,good,medium,"broken vacuum cleaner belt, needs replacement"
+no,1,not clogged,fixed battery wire,need regular cleaning,high,no,good,normal,"battery pack not charging, possible wire issue"
+no,1,not clogged,needs repair,cleaned,medium,no,good,medium,battery not charging
+no,1,not clogged,needs repair,cleaned,low,yes,good,medium,continuous loud noise
+no,1,not clogged,needs repair,cleaned,high,no,good,medium,"broken vacuum cleaner belt, needs replacement"
+yes,1,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+no,1,not clogged,needs repair,cleaned,low,no,needs attention,high,"does not start, checking on/off button"
+no,1,clogged,check nozzle and clean tank/filter,need regular cleaning,low,no,good,normal,clogged nozzle
+yes,1,not clogged,needs repair,need regular cleaning,low,yes,overheating,very high,motor overheating
+yes,1,not clogged,needs repair,need regular cleaning,low,yes,good,high,motor overheating
+no,1,not clogged,needs repair,cleaned,low,no,needs attention,high,"does not start, checking on/off button"
+no,1,not clogged,needs repair,cleaned,medium,no,good,medium,intermittent cut out in speeds 2 and 3
+yes,0,not clogged,needs repair,cleaned,low,no,good,high,"seeking durable vacuum for hardwood, medium-sized dog, and long hair"
+no,1,not clogged,needs repair,cleaned,low,yes,good,medium,battery not charging
+no,2,not clogged,needs repair,cleaned,high,no,good,high,stops every 2 minutes
+yes,2,not clogged,needs repair,cleaned,low,no,needs attention,high,continuous loud noise
+no,2,not clogged,needs repair,cleaned,high,no,good,high,stops every 2 minutes
+no,2,not clogged,needs repair,cleaned,medium,no,good,medium,low suction efficiency
+yes,1,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+no,1,not clogged,needs repair,cleaned,high,no,good,medium,motor overheating
+no,2,not clogged,needs repair,cleaned,high,no,good,high,stops every 2 minutes
+yes,2,not clogged,needs repair,cleaned,high,no,good,high,motor overheating
+no,2,not clogged,needs repair,cleaned,medium,no,good,medium,"intermittent power failure, loose wiring suspected"
+no,1,clogged,check nozzle and clean tank/filter,need regular cleaning,low,no,good,normal,continuous loud noise
+no,1,not clogged,needs repair,cleaned,low,no,needs attention,high,motor overheating
+no,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,continuous loud noise
+yes,1,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+no,1,not clogged,needs repair,cleaned,low,no,needs attention,high,"no longer sucks, drying hepa filter"
+yes,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,motor overheating
+yes,0,not clogged,needs repair,needs deep cleaning,low,yes,good,high,unexpected shutdown
+yes,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+yes,1,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+no,1,not clogged,needs repair,cleaned,high,no,good,high,unexpected shutdown
+no,1,not clogged,needs repair,cleaned,low,yes,good,medium,"battery issue, cuts out in speeds 2 and 3"
+no,2,not clogged,needs repair,cleaned,high,no,good,high,stops every 2 minutes
+yes,1,not clogged,needs repair,cleaned,low,no,needs attention,high,"stops working, on/off button suspected"
+no,2,not clogged,needs repair,need regular cleaning,low,no,good,medium,no suction
+no,2,not clogged,needs repair,cleaned,high,no,good,high,unexpected shutdown
+no,1,not clogged,needs repair,cleaned,medium,no,good,medium,continuous loud noise
+no,1,not clogged,needs repair,cleaned,low,yes,good,medium,"battery issue, cuts out in speeds 2 and 3"
+yes,0,not clogged,needs repair,cleaned,low,no,good,high,"seeking durable vacuum for hardwood, medium-sized dog, and long hair"
+no,1,clogged,check nozzle and clean tank/filter,need regular cleaning,low,no,good,normal,clogged nozzle
+yes,0,not clogged,needs repair,cleaned,low,no,good,high,"seeking durable vacuum for hardwood, medium-sized dog, and long hair"
+yes,0,not clogged,needs repair,cleaned,low,no,good,high,"seeking durable vacuum for hardwood, medium-sized dog, and long hair"
+yes,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+no,2,not clogged,needs repair,cleaned,high,no,good,high,stops every 2 minutes
+no,1,not clogged,needs repair,cleaned,high,no,good,medium,"broken vacuum cleaner belt, needs replacement"
+yes,0,not clogged,needs repair,needs deep cleaning,low,yes,good,high,stops every 2 minutes
+yes,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+yes,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+yes,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,low suction efficiency
+no,1,not clogged,needs repair,cleaned,medium,no,good,medium,intermittent cut out in speeds 2 and 3
+no,0,clogged,checked unclogged elbows,need regular cleaning,low,no,good,normal,"blocked elbows, possible hose clog"
+yes,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+no,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,battery not charging
+no,0,clogged,checked unclogged elbows,need regular cleaning,low,no,good,normal,"blocked elbows, possible hose clog"
+no,2,not clogged,needs repair,need regular cleaning,low,no,good,medium,no suction
+yes,1,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+no,2,not clogged,needs repair,need regular cleaning,low,no,good,medium,continuous loud noise
+yes,1,not clogged,needs repair,cleaned,low,no,needs attention,high,low suction efficiency
+no,2,not clogged,needs repair,cleaned,medium,no,good,medium,"intermittent power failure, loose wiring suspected"
+no,2,not clogged,needs repair,cleaned,medium,no,good,medium,unexpected shutdown
+no,1,not clogged,needs repair,cleaned,low,yes,good,medium,low suction efficiency
+no,2,not clogged,needs repair,cleaned,high,no,good,high,stops every 2 minutes
+no,1,not clogged,needs repair,cleaned,high,no,good,high,stops every 2 minutes
+yes,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,unexpected shutdown
+yes,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+no,2,not clogged,needs repair,need regular cleaning,low,no,good,medium,no suction
+no,1,not clogged,needs repair,cleaned,medium,no,good,medium,intermittent cut out in speeds 2 and 3
+no,1,clogged,check nozzle and clean tank/filter,need regular cleaning,low,no,good,normal,clogged nozzle
+yes,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,motor overheating
+yes,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,unexpected shutdown
+yes,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,motor overheating
+yes,0,not clogged,needs repair,cleaned,low,no,good,high,"seeking durable vacuum for hardwood, medium-sized dog, and long hair"
+yes,2,not clogged,needs repair,cleaned,high,no,good,high,sensor control red
+yes,1,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+no,1,not clogged,needs repair,cleaned,high,no,good,high,continuous loud noise
+no,2,not clogged,needs repair,cleaned,medium,no,good,medium,"intermittent power failure, loose wiring suspected"
+yes,2,not clogged,needs repair,need regular cleaning,low,yes,good,high,stops every 2 minutes
+yes,0,not clogged,needs repair,cleaned,low,no,good,high,"seeking durable vacuum for hardwood, medium-sized dog, and long hair"
+yes,2,not clogged,needs repair,cleaned,high,no,good,high,sensor control red

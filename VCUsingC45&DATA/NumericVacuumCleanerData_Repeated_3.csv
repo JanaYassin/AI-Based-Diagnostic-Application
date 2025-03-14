@@ -1,0 +1,991 @@
+Whistling Sound,Usage Duration,Tube Clog Status,Repair Status,Cleaning Status,Suction Efficiency,Hose Repair Status,Motor Condition,Noise Intensity,Fault
+1,2,0,5,2,3,0,0,3,sensor control red
+0,2,0,5,2,3,0,0,3,stops every 2 minutes
+1,0,0,5,0,0,1,0,3,stops every 2 minutes
+0,1,0,11,1,3,0,0,1,unexpected shutdown
+0,2,0,5,1,0,0,0,2,battery not charging
+0,1,0,5,2,0,1,0,2,"battery issue, cuts out in speeds 2 and 3"
+1,1,0,5,1,0,1,0,3,stops every 2 minutes
+1,1,0,5,1,0,1,0,3,motor overheating
+0,1,0,5,2,0,0,5,3,"does not start, checking on/off button"
+0,1,0,5,2,0,0,5,3,"does not start, checking on/off button"
+1,1,0,5,1,0,1,0,3,stops every 2 minutes
+1,0,0,5,2,0,0,0,3,"seeking durable vacuum for hardwood, medium-sized dog, and long hair"
+0,2,0,5,2,3,0,0,3,continuous loud noise
+0,1,0,5,2,0,0,5,3,"does not start, checking on/off button"
+0,0,1,28,1,0,0,0,1,unexpected shutdown
+0,2,0,5,2,3,0,0,3,stops every 2 minutes
+0,1,0,11,1,3,0,0,1,continuous loud noise
+0,1,0,5,2,3,0,0,2,"broken vacuum cleaner belt, needs replacement"
+0,1,0,5,2,3,0,0,3,stops every 2 minutes
+1,0,0,5,2,0,0,0,3,"seeking durable vacuum for hardwood, medium-sized dog, and long hair"
+0,1,1,34,1,0,0,0,1,clogged nozzle
+1,2,0,5,2,0,0,5,3,makes terrible noise after cleaning filters
+1,1,0,5,2,0,0,5,3,"stops working, on/off button suspected"
+1,2,0,5,1,0,1,0,3,low suction efficiency
+0,2,0,5,2,3,0,0,3,stops every 2 minutes
+1,1,0,5,1,0,1,0,3,stops every 2 minutes
+1,1,0,5,1,0,1,0,3,stops every 2 minutes
+0,1,0,11,1,3,0,0,1,"battery pack not charging, possible wire issue"
+0,2,0,5,2,3,0,0,3,low suction efficiency
+0,1,0,5,2,0,0,5,3,motor overheating
+1,2,0,5,1,0,1,0,3,stops every 2 minutes
+0,1,1,34,1,0,0,0,1,clogged nozzle
+1,1,0,5,1,0,1,0,3,stops every 2 minutes
+0,2,0,5,2,3,0,0,3,stops every 2 minutes
+0,2,0,5,2,2,0,0,2,"intermittent power failure, loose wiring suspected"
+0,2,0,5,2,3,0,0,3,stops every 2 minutes
+0,1,0,5,2,0,0,5,3,"no longer sucks, drying hepa filter"
+1,1,0,5,2,0,0,5,3,battery not charging
+1,1,0,5,1,0,1,0,3,stops every 2 minutes
+1,0,0,5,0,0,1,0,3,low suction efficiency
+1,1,0,5,1,0,1,0,3,motor overheating
+1,1,0,5,1,0,1,0,3,stops every 2 minutes
+1,2,0,5,1,0,1,0,3,stops every 2 minutes
+0,2,0,5,2,3,0,0,3,continuous loud noise
+1,2,0,5,1,0,1,0,3,battery not charging
+1,2,0,5,1,0,1,0,3,low suction efficiency
+1,2,0,5,2,3,0,0,3,sensor control red
+0,1,0,5,2,0,0,5,3,"does not start, checking on/off button"
+0,2,0,5,2,2,0,0,2,motor overheating
+0,2,0,5,1,0,0,0,2,no suction
+0,2,0,5,1,0,1,0,3,motor overheating
+1,1,0,5,1,0,1,0,3,stops every 2 minutes
+1,1,0,5,1,0,1,1,4,multiple clogs and overheating
+0,2,0,5,2,3,0,0,3,stops every 2 minutes
+1,0,0,5,0,0,1,0,3,stops every 2 minutes
+1,1,0,5,1,0,1,0,3,low suction efficiency
+0,1,0,5,2,0,1,0,2,motor overheating
+0,1,0,11,1,3,0,0,1,motor overheating
+1,2,0,5,1,0,1,0,3,stops every 2 minutes
+0,1,0,5,2,0,0,5,3,"does not start, checking on/off button"
+0,1,0,5,2,0,0,5,3,motor overheating
+0,2,0,5,2,2,0,0,2,"intermittent power failure, loose wiring suspected"
+0,1,1,34,1,0,0,0,1,clogged nozzle
+1,2,0,5,2,3,0,0,3,motor overheating
+0,2,0,5,2,3,0,0,3,motor overheating
+1,2,0,5,1,0,1,0,3,stops every 2 minutes
+0,1,1,34,1,0,0,0,1,unexpected shutdown
+1,1,0,5,1,0,1,0,3,stops every 2 minutes
+0,2,0,5,2,3,0,0,3,stops every 2 minutes
+0,1,0,5,2,0,0,5,3,"does not start, checking on/off button"
+1,2,0,5,1,0,1,0,3,continuous loud noise
+1,0,0,5,0,0,1,0,3,continuous loud noise
+0,1,0,5,2,0,0,5,3,"does not start, checking on/off button"
+1,1,0,5,1,0,1,0,3,stops every 2 minutes
+1,1,0,5,1,0,1,0,3,unexpected shutdown
+1,0,0,5,0,0,1,0,3,stops every 2 minutes
+0,1,0,5,2,3,0,0,2,"broken vacuum cleaner belt, needs replacement"
+1,2,0,5,1,0,1,0,3,stops every 2 minutes
+1,1,0,5,2,0,0,5,3,"stops working, on/off button suspected"
+1,1,0,5,1,0,1,0,3,stops every 2 minutes
+0,2,0,5,2,3,0,0,3,motor overheating
+1,0,0,5,0,0,1,0,3,stops every 2 minutes
+0,1,0,5,2,3,0,0,3,stops every 2 minutes
+0,2,0,5,1,0,0,0,2,no suction
+0,1,0,5,2,3,0,0,2,"broken vacuum cleaner belt, needs replacement"
+0,1,0,5,2,0,1,0,2,"battery issue, cuts out in speeds 2 and 3"
+0,1,0,5,2,0,0,5,3,"does not start, checking on/off button"
+1,0,0,5,2,0,0,0,3,"seeking durable vacuum for hardwood, medium-sized dog, and long hair"
+1,2,0,5,2,0,0,5,3,makes terrible noise after cleaning filters
+1,2,0,5,1,0,1,0,3,stops every 2 minutes
+1,1,0,5,1,0,1,0,3,stops every 2 minutes
+1,1,0,5,1,0,1,0,3,unexpected shutdown
+1,2,0,5,1,0,1,0,3,stops every 2 minutes
+1,2,0,5,1,0,1,0,3,stops every 2 minutes
+0,2,0,5,2,2,0,0,2,"intermittent power failure, loose wiring suspected"
+1,1,0,5,1,0,1,0,3,battery not charging
+1,2,0,5,2,0,0,5,3,makes terrible noise after cleaning filters
+0,2,0,5,2,3,0,0,3,stops every 2 minutes
+0,2,0,5,2,3,0,0,3,unexpected shutdown
+0,2,0,5,2,3,0,0,3,unexpected shutdown
+0,2,0,5,2,2,0,0,2,"intermittent power failure, loose wiring suspected"
+0,2,0,5,1,0,1,0,3,stops every 2 minutes
+0,1,0,5,2,2,0,0,2,intermittent cut out in speeds 2 and 3
+0,1,0,5,2,2,0,0,2,low suction efficiency
+1,2,0,5,1,0,1,0,3,stops every 2 minutes
+0,0,1,28,1,0,0,0,1,continuous loud noise
+0,1,0,5,2,0,1,0,2,unexpected shutdown
+0,2,0,5,2,3,0,0,3,stops every 2 minutes
+1,2,0,5,2,3,0,0,3,sensor control red
+0,2,0,5,1,0,1,0,3,stops every 2 minutes
+0,1,0,5,2,2,0,0,2,intermittent cut out in speeds 2 and 3
+1,1,0,5,1,0,1,0,3,low suction efficiency
+1,0,0,5,2,0,0,0,3,"seeking durable vacuum for hardwood, medium-sized dog, and long hair"
+1,1,0,5,2,0,0,5,3,"stops working, on/off button suspected"
+0,2,0,5,2,3,0,0,3,motor overheating
+1,2,0,5,1,0,1,0,3,stops every 2 minutes
+1,1,0,5,2,0,0,5,3,motor overheating
+1,1,0,5,2,0,0,5,3,"stops working, on/off button suspected"
+0,1,0,5,2,0,0,5,3,"no longer sucks, drying hepa filter"
+0,0,1,28,1,0,0,0,1,"blocked elbows, possible hose clog"
+1,1,0,5,1,0,1,0,3,motor overheating
+1,1,0,5,2,0,0,5,3,"stops working, on/off button suspected"
+0,1,1,34,1,0,0,0,1,continuous loud noise
+0,1,0,5,2,3,0,0,2,"broken vacuum cleaner belt, needs replacement"
+1,2,0,5,1,0,1,0,3,stops every 2 minutes
+1,2,0,5,2,0,0,5,3,low suction efficiency
+0,2,0,5,1,0,1,0,3,stops every 2 minutes
+1,1,0,5,1,0,1,0,3,stops every 2 minutes
+1,2,0,5,1,0,1,0,3,battery not charging
+1,0,0,5,0,0,1,0,3,stops every 2 minutes
+1,2,0,5,2,0,0,5,3,makes terrible noise after cleaning filters
+0,2,0,5,2,3,0,0,3,stops every 2 minutes
+0,1,0,5,2,3,0,0,2,battery not charging
+0,1,0,5,2,0,0,5,3,"does not start, checking on/off button"
+0,2,0,5,2,3,0,0,3,stops every 2 minutes
+0,1,0,5,2,2,0,0,2,intermittent cut out in speeds 2 and 3
+0,1,0,5,2,2,0,0,2,continuous loud noise
+0,1,0,5,2,0,0,5,3,"does not start, checking on/off button"
+0,1,0,5,2,3,0,0,3,stops every 2 minutes
+0,2,0,5,2,3,0,0,3,stops every 2 minutes
+1,1,0,5,1,0,1,0,3,stops every 2 minutes
+1,1,0,5,1,0,1,0,3,stops every 2 minutes
+0,2,0,5,2,3,0,0,3,stops every 2 minutes
+0,2,0,5,2,3,0,0,3,continuous loud noise
+1,1,0,5,2,0,0,5,3,"stops working, on/off button suspected"
+0,1,0,5,2,0,1,0,2,"battery issue, cuts out in speeds 2 and 3"
+0,1,0,5,2,2,0,0,2,intermittent cut out in speeds 2 and 3
+0,1,0,5,2,3,0,0,2,motor overheating
+1,2,0,5,1,0,1,0,3,stops every 2 minutes
+0,2,0,5,1,0,0,0,2,no suction
+0,2,0,5,2,3,0,0,3,stops every 2 minutes
+0,2,0,5,2,2,0,0,2,"intermittent power failure, loose wiring suspected"
+0,1,0,5,2,2,0,0,2,intermittent cut out in speeds 2 and 3
+1,2,0,5,1,0,1,0,3,low suction efficiency
+0,1,0,5,2,2,0,0,2,intermittent cut out in speeds 2 and 3
+1,2,0,5,1,0,1,0,3,low suction efficiency
+1,1,0,5,1,0,1,0,3,stops every 2 minutes
+1,1,0,5,1,0,1,0,3,stops every 2 minutes
+0,1,0,5,2,0,0,5,3,"does not start, checking on/off button"
+1,2,0,5,1,0,1,0,3,stops every 2 minutes
+0,2,0,5,1,0,0,0,2,low suction efficiency
+1,2,0,5,1,0,1,0,3,unexpected shutdown
+1,0,0,5,2,0,0,0,3,low suction efficiency
+1,1,0,5,1,0,1,0,3,continuous loud noise
+1,2,0,5,1,0,1,0,3,stops every 2 minutes
+0,1,0,5,2,3,0,0,2,"broken vacuum cleaner belt, needs replacement"
+0,2,0,5,2,3,0,0,3,stops every 2 minutes
+1,2,0,5,1,0,1,0,3,unexpected shutdown
+1,2,0,5,1,0,1,0,3,low suction efficiency
+1,2,0,5,2,3,0,0,3,sensor control red
+1,1,0,5,1,0,1,0,3,stops every 2 minutes
+0,1,0,5,2,0,0,5,3,continuous loud noise
+0,2,0,5,1,0,0,0,2,no suction
+0,2,0,5,2,2,0,0,2,continuous loud noise
+1,1,0,5,1,0,1,0,3,continuous loud noise
+0,2,0,5,1,0,0,0,2,no suction
+0,1,0,5,2,0,0,5,3,low suction efficiency
+0,1,0,5,2,2,0,0,2,intermittent cut out in speeds 2 and 3
+1,1,0,5,1,0,1,0,3,battery not charging
+0,1,0,5,2,3,0,0,2,unexpected shutdown
+0,1,0,5,2,0,0,5,3,"does not start, checking on/off button"
+1,2,0,5,1,0,1,0,3,stops every 2 minutes
+1,1,0,5,1,0,1,0,3,unexpected shutdown
+1,1,0,5,2,0,0,5,3,"stops working, on/off button suspected"
+0,1,1,34,1,0,0,0,1,low suction efficiency
+0,1,0,5,2,0,1,0,2,continuous loud noise
+1,1,0,5,1,0,1,1,4,multiple clogs and overheating
+0,0,1,28,1,0,0,0,1,"blocked elbows, possible hose clog"
+1,1,0,5,1,0,1,0,3,stops every 2 minutes
+1,2,0,5,1,0,1,0,3,stops every 2 minutes
+0,2,0,5,2,2,0,0,2,"intermittent power failure, loose wiring suspected"
+0,2,0,5,2,3,0,0,3,motor overheating
+1,2,0,5,1,0,1,0,3,low suction efficiency
+0,1,0,5,2,3,0,0,3,stops every 2 minutes
+1,2,0,5,1,0,1,0,3,stops every 2 minutes
+0,1,0,5,2,2,0,0,2,unexpected shutdown
+0,2,0,5,2,3,0,0,3,stops every 2 minutes
+0,2,0,5,1,0,0,0,2,no suction
+1,2,0,5,1,0,1,0,3,stops every 2 minutes
+1,1,0,5,1,0,1,0,3,motor overheating
+0,1,0,5,2,0,0,5,3,"no longer sucks, drying hepa filter"
+0,1,0,5,2,0,0,5,3,"does not start, checking on/off button"
+0,1,0,5,2,3,0,0,2,"broken vacuum cleaner belt, needs replacement"
+0,1,0,5,2,0,0,5,3,"does not start, checking on/off button"
+1,1,0,5,1,0,1,0,3,stops every 2 minutes
+1,0,0,5,0,0,1,0,3,stops every 2 minutes
+0,1,0,5,2,0,0,5,3,battery not charging
+0,1,1,34,1,0,0,0,1,battery not charging
+0,1,1,34,1,0,0,0,1,clogged nozzle
+1,2,0,5,2,3,0,0,3,sensor control red
+0,1,0,5,2,0,0,5,3,"does not start, checking on/off button"
+0,1,0,5,2,0,0,5,3,low suction efficiency
+0,2,0,5,2,3,0,0,3,stops every 2 minutes
+1,2,0,5,1,0,1,0,3,stops every 2 minutes
+0,1,0,5,2,3,0,0,2,"broken vacuum cleaner belt, needs replacement"
+1,2,0,5,1,0,1,0,3,battery not charging
+0,1,0,5,2,3,0,0,2,battery not charging
+1,1,0,5,1,0,1,0,3,continuous loud noise
+0,1,0,11,1,3,0,0,1,low suction efficiency
+0,1,0,5,2,0,0,5,3,"no longer sucks, drying hepa filter"
+1,0,0,5,0,0,1,0,3,stops every 2 minutes
+1,1,0,5,1,0,1,0,3,stops every 2 minutes
+1,1,0,5,1,0,1,0,3,continuous loud noise
+1,1,0,5,1,0,1,0,3,low suction efficiency
+0,1,0,5,2,3,0,0,2,"broken vacuum cleaner belt, needs replacement"
+0,1,0,5,2,3,0,0,3,stops every 2 minutes
+1,0,0,5,2,0,0,0,3,"seeking durable vacuum for hardwood, medium-sized dog, and long hair"
+1,0,0,5,2,0,0,0,3,"seeking durable vacuum for hardwood, medium-sized dog, and long hair"
+0,0,1,28,1,0,0,0,1,"blocked elbows, possible hose clog"
+1,0,0,5,0,0,1,0,3,stops every 2 minutes
+1,2,0,5,2,0,0,5,3,makes terrible noise after cleaning filters
+1,2,0,5,2,0,0,5,3,unexpected shutdown
+0,2,0,5,1,0,0,0,2,no suction
+0,1,0,11,1,3,0,0,1,battery not charging
+0,0,1,28,1,0,0,0,1,"blocked elbows, possible hose clog"
+0,1,0,5,2,3,0,0,2,"broken vacuum cleaner belt, needs replacement"
+1,1,0,5,2,0,0,5,3,"stops working, on/off button suspected"
+0,1,0,5,2,3,0,0,2,motor overheating
+1,2,0,5,1,0,1,0,3,stops every 2 minutes
+0,2,0,5,1,0,0,0,2,no suction
+1,2,0,5,1,0,1,0,3,stops every 2 minutes
+1,1,0,5,1,0,1,0,3,motor overheating
+1,1,0,5,2,0,0,5,3,"stops working, on/off button suspected"
+0,0,1,28,1,0,0,0,1,battery not charging
+1,2,0,5,2,3,0,0,3,sensor control red
+1,2,0,5,1,0,1,0,3,stops every 2 minutes
+0,1,0,5,2,0,0,5,3,"does not start, checking on/off button"
+1,2,0,5,2,3,0,0,3,unexpected shutdown
+1,1,0,5,1,0,1,1,4,multiple clogs and overheating
+0,1,0,5,2,3,0,0,2,"broken vacuum cleaner belt, needs replacement"
+0,1,0,11,1,3,0,0,1,"battery pack not charging, possible wire issue"
+0,1,0,5,2,2,0,0,2,battery not charging
+0,1,0,5,2,0,1,0,2,continuous loud noise
+0,1,0,5,2,3,0,0,2,"broken vacuum cleaner belt, needs replacement"
+1,1,0,5,1,0,1,0,3,stops every 2 minutes
+0,1,0,5,2,0,0,5,3,"does not start, checking on/off button"
+0,1,1,34,1,0,0,0,1,clogged nozzle
+1,1,0,5,1,0,1,1,4,motor overheating
+1,1,0,5,1,0,1,0,3,motor overheating
+0,1,0,5,2,0,0,5,3,"does not start, checking on/off button"
+0,1,0,5,2,2,0,0,2,intermittent cut out in speeds 2 and 3
+1,0,0,5,2,0,0,0,3,"seeking durable vacuum for hardwood, medium-sized dog, and long hair"
+0,1,0,5,2,0,1,0,2,battery not charging
+0,2,0,5,2,3,0,0,3,stops every 2 minutes
+1,2,0,5,2,0,0,5,3,continuous loud noise
+0,2,0,5,2,3,0,0,3,stops every 2 minutes
+0,2,0,5,2,2,0,0,2,low suction efficiency
+1,1,0,5,1,0,1,0,3,stops every 2 minutes
+0,1,0,5,2,3,0,0,2,motor overheating
+0,2,0,5,2,3,0,0,3,stops every 2 minutes
+1,2,0,5,2,3,0,0,3,motor overheating
+0,2,0,5,2,2,0,0,2,"intermittent power failure, loose wiring suspected"
+0,1,1,34,1,0,0,0,1,continuous loud noise
+0,1,0,5,2,0,0,5,3,motor overheating
+0,2,0,5,1,0,1,0,3,continuous loud noise
+1,1,0,5,1,0,1,0,3,stops every 2 minutes
+0,1,0,5,2,0,0,5,3,"no longer sucks, drying hepa filter"
+1,2,0,5,1,0,1,0,3,motor overheating
+1,0,0,5,0,0,1,0,3,unexpected shutdown
+1,2,0,5,1,0,1,0,3,stops every 2 minutes
+1,1,0,5,1,0,1,0,3,stops every 2 minutes
+0,1,0,5,2,3,0,0,3,unexpected shutdown
+0,1,0,5,2,0,1,0,2,"battery issue, cuts out in speeds 2 and 3"
+0,2,0,5,2,3,0,0,3,stops every 2 minutes
+1,1,0,5,2,0,0,5,3,"stops working, on/off button suspected"
+0,2,0,5,1,0,0,0,2,no suction
+0,2,0,5,2,3,0,0,3,unexpected shutdown
+0,1,0,5,2,2,0,0,2,continuous loud noise
+0,1,0,5,2,0,1,0,2,"battery issue, cuts out in speeds 2 and 3"
+1,0,0,5,2,0,0,0,3,"seeking durable vacuum for hardwood, medium-sized dog, and long hair"
+0,1,1,34,1,0,0,0,1,clogged nozzle
+1,0,0,5,2,0,0,0,3,"seeking durable vacuum for hardwood, medium-sized dog, and long hair"
+1,0,0,5,2,0,0,0,3,"seeking durable vacuum for hardwood, medium-sized dog, and long hair"
+1,2,0,5,1,0,1,0,3,stops every 2 minutes
+0,2,0,5,2,3,0,0,3,stops every 2 minutes
+0,1,0,5,2,3,0,0,2,"broken vacuum cleaner belt, needs replacement"
+1,0,0,5,0,0,1,0,3,stops every 2 minutes
+1,2,0,5,1,0,1,0,3,stops every 2 minutes
+1,2,0,5,1,0,1,0,3,stops every 2 minutes
+1,2,0,5,1,0,1,0,3,low suction efficiency
+0,1,0,5,2,2,0,0,2,intermittent cut out in speeds 2 and 3
+0,0,1,28,1,0,0,0,1,"blocked elbows, possible hose clog"
+1,2,0,5,1,0,1,0,3,stops every 2 minutes
+0,2,0,5,1,0,1,0,3,battery not charging
+0,0,1,28,1,0,0,0,1,"blocked elbows, possible hose clog"
+0,2,0,5,1,0,0,0,2,no suction
+1,1,0,5,1,0,1,0,3,stops every 2 minutes
+0,2,0,5,1,0,0,0,2,continuous loud noise
+1,1,0,5,2,0,0,5,3,low suction efficiency
+0,2,0,5,2,2,0,0,2,"intermittent power failure, loose wiring suspected"
+0,2,0,5,2,2,0,0,2,unexpected shutdown
+0,1,0,5,2,0,1,0,2,low suction efficiency
+0,2,0,5,2,3,0,0,3,stops every 2 minutes
+0,1,0,5,2,3,0,0,3,stops every 2 minutes
+1,2,0,5,1,0,1,0,3,unexpected shutdown
+1,2,0,5,1,0,1,0,3,stops every 2 minutes
+0,2,0,5,1,0,0,0,2,no suction
+0,1,0,5,2,2,0,0,2,intermittent cut out in speeds 2 and 3
+0,1,1,34,1,0,0,0,1,clogged nozzle
+1,2,0,5,1,0,1,0,3,motor overheating
+1,2,0,5,1,0,1,0,3,unexpected shutdown
+1,2,0,5,1,0,1,0,3,motor overheating
+1,0,0,5,2,0,0,0,3,"seeking durable vacuum for hardwood, medium-sized dog, and long hair"
+1,2,0,5,2,3,0,0,3,sensor control red
+1,1,0,5,1,0,1,0,3,stops every 2 minutes
+0,1,0,5,2,3,0,0,3,continuous loud noise
+0,2,0,5,2,2,0,0,2,"intermittent power failure, loose wiring suspected"
+1,2,0,5,1,0,1,0,3,stops every 2 minutes
+1,0,0,5,2,0,0,0,3,"seeking durable vacuum for hardwood, medium-sized dog, and long hair"
+1,2,0,5,2,3,0,0,3,sensor control red
+1,2,0,5,2,3,0,0,3,sensor control red
+0,2,0,5,2,3,0,0,3,stops every 2 minutes
+1,0,0,5,0,0,1,0,3,stops every 2 minutes
+0,1,0,11,1,3,0,0,1,unexpected shutdown
+0,2,0,5,1,0,0,0,2,battery not charging
+0,1,0,5,2,0,1,0,2,"battery issue, cuts out in speeds 2 and 3"
+1,1,0,5,1,0,1,0,3,stops every 2 minutes
+1,1,0,5,1,0,1,0,3,motor overheating
+0,1,0,5,2,0,0,5,3,"does not start, checking on/off button"
+0,1,0,5,2,0,0,5,3,"does not start, checking on/off button"
+1,1,0,5,1,0,1,0,3,stops every 2 minutes
+1,0,0,5,2,0,0,0,3,"seeking durable vacuum for hardwood, medium-sized dog, and long hair"
+0,2,0,5,2,3,0,0,3,continuous loud noise
+0,1,0,5,2,0,0,5,3,"does not start, checking on/off button"
+0,0,1,28,1,0,0,0,1,unexpected shutdown
+0,2,0,5,2,3,0,0,3,stops every 2 minutes
+0,1,0,11,1,3,0,0,1,continuous loud noise
+0,1,0,5,2,3,0,0,2,"broken vacuum cleaner belt, needs replacement"
+0,1,0,5,2,3,0,0,3,stops every 2 minutes
+1,0,0,5,2,0,0,0,3,"seeking durable vacuum for hardwood, medium-sized dog, and long hair"
+0,1,1,34,1,0,0,0,1,clogged nozzle
+1,2,0,5,2,0,0,5,3,makes terrible noise after cleaning filters
+1,1,0,5,2,0,0,5,3,"stops working, on/off button suspected"
+1,2,0,5,1,0,1,0,3,low suction efficiency
+0,2,0,5,2,3,0,0,3,stops every 2 minutes
+1,1,0,5,1,0,1,0,3,stops every 2 minutes
+1,1,0,5,1,0,1,0,3,stops every 2 minutes
+0,1,0,11,1,3,0,0,1,"battery pack not charging, possible wire issue"
+0,2,0,5,2,3,0,0,3,low suction efficiency
+0,1,0,5,2,0,0,5,3,motor overheating
+1,2,0,5,1,0,1,0,3,stops every 2 minutes
+0,1,1,34,1,0,0,0,1,clogged nozzle
+1,1,0,5,1,0,1,0,3,stops every 2 minutes
+0,2,0,5,2,3,0,0,3,stops every 2 minutes
+0,2,0,5,2,2,0,0,2,"intermittent power failure, loose wiring suspected"
+0,2,0,5,2,3,0,0,3,stops every 2 minutes
+0,1,0,5,2,0,0,5,3,"no longer sucks, drying hepa filter"
+1,1,0,5,2,0,0,5,3,battery not charging
+1,1,0,5,1,0,1,0,3,stops every 2 minutes
+1,0,0,5,0,0,1,0,3,low suction efficiency
+1,1,0,5,1,0,1,0,3,motor overheating
+1,1,0,5,1,0,1,0,3,stops every 2 minutes
+1,2,0,5,1,0,1,0,3,stops every 2 minutes
+0,2,0,5,2,3,0,0,3,continuous loud noise
+1,2,0,5,1,0,1,0,3,battery not charging
+1,2,0,5,1,0,1,0,3,low suction efficiency
+1,2,0,5,2,3,0,0,3,sensor control red
+0,1,0,5,2,0,0,5,3,"does not start, checking on/off button"
+0,2,0,5,2,2,0,0,2,motor overheating
+0,2,0,5,1,0,0,0,2,no suction
+0,2,0,5,1,0,1,0,3,motor overheating
+1,1,0,5,1,0,1,0,3,stops every 2 minutes
+1,1,0,5,1,0,1,1,4,multiple clogs and overheating
+0,2,0,5,2,3,0,0,3,stops every 2 minutes
+1,0,0,5,0,0,1,0,3,stops every 2 minutes
+1,1,0,5,1,0,1,0,3,low suction efficiency
+0,1,0,5,2,0,1,0,2,motor overheating
+0,1,0,11,1,3,0,0,1,motor overheating
+1,2,0,5,1,0,1,0,3,stops every 2 minutes
+0,1,0,5,2,0,0,5,3,"does not start, checking on/off button"
+0,1,0,5,2,0,0,5,3,motor overheating
+0,2,0,5,2,2,0,0,2,"intermittent power failure, loose wiring suspected"
+0,1,1,34,1,0,0,0,1,clogged nozzle
+1,2,0,5,2,3,0,0,3,motor overheating
+0,2,0,5,2,3,0,0,3,motor overheating
+1,2,0,5,1,0,1,0,3,stops every 2 minutes
+0,1,1,34,1,0,0,0,1,unexpected shutdown
+1,1,0,5,1,0,1,0,3,stops every 2 minutes
+0,2,0,5,2,3,0,0,3,stops every 2 minutes
+0,1,0,5,2,0,0,5,3,"does not start, checking on/off button"
+1,2,0,5,1,0,1,0,3,continuous loud noise
+1,0,0,5,0,0,1,0,3,continuous loud noise
+0,1,0,5,2,0,0,5,3,"does not start, checking on/off button"
+1,1,0,5,1,0,1,0,3,stops every 2 minutes
+1,1,0,5,1,0,1,0,3,unexpected shutdown
+1,0,0,5,0,0,1,0,3,stops every 2 minutes
+0,1,0,5,2,3,0,0,2,"broken vacuum cleaner belt, needs replacement"
+1,2,0,5,1,0,1,0,3,stops every 2 minutes
+1,1,0,5,2,0,0,5,3,"stops working, on/off button suspected"
+1,1,0,5,1,0,1,0,3,stops every 2 minutes
+0,2,0,5,2,3,0,0,3,motor overheating
+1,0,0,5,0,0,1,0,3,stops every 2 minutes
+0,1,0,5,2,3,0,0,3,stops every 2 minutes
+0,2,0,5,1,0,0,0,2,no suction
+0,1,0,5,2,3,0,0,2,"broken vacuum cleaner belt, needs replacement"
+0,1,0,5,2,0,1,0,2,"battery issue, cuts out in speeds 2 and 3"
+0,1,0,5,2,0,0,5,3,"does not start, checking on/off button"
+1,0,0,5,2,0,0,0,3,"seeking durable vacuum for hardwood, medium-sized dog, and long hair"
+1,2,0,5,2,0,0,5,3,makes terrible noise after cleaning filters
+1,2,0,5,1,0,1,0,3,stops every 2 minutes
+1,1,0,5,1,0,1,0,3,stops every 2 minutes
+1,1,0,5,1,0,1,0,3,unexpected shutdown
+1,2,0,5,1,0,1,0,3,stops every 2 minutes
+1,2,0,5,1,0,1,0,3,stops every 2 minutes
+0,2,0,5,2,2,0,0,2,"intermittent power failure, loose wiring suspected"
+1,1,0,5,1,0,1,0,3,battery not charging
+1,2,0,5,2,0,0,5,3,makes terrible noise after cleaning filters
+0,2,0,5,2,3,0,0,3,stops every 2 minutes
+0,2,0,5,2,3,0,0,3,unexpected shutdown
+0,2,0,5,2,3,0,0,3,unexpected shutdown
+0,2,0,5,2,2,0,0,2,"intermittent power failure, loose wiring suspected"
+0,2,0,5,1,0,1,0,3,stops every 2 minutes
+0,1,0,5,2,2,0,0,2,intermittent cut out in speeds 2 and 3
+0,1,0,5,2,2,0,0,2,low suction efficiency
+1,2,0,5,1,0,1,0,3,stops every 2 minutes
+0,0,1,28,1,0,0,0,1,continuous loud noise
+0,1,0,5,2,0,1,0,2,unexpected shutdown
+0,2,0,5,2,3,0,0,3,stops every 2 minutes
+1,2,0,5,2,3,0,0,3,sensor control red
+0,2,0,5,1,0,1,0,3,stops every 2 minutes
+0,1,0,5,2,2,0,0,2,intermittent cut out in speeds 2 and 3
+1,1,0,5,1,0,1,0,3,low suction efficiency
+1,0,0,5,2,0,0,0,3,"seeking durable vacuum for hardwood, medium-sized dog, and long hair"
+1,1,0,5,2,0,0,5,3,"stops working, on/off button suspected"
+0,2,0,5,2,3,0,0,3,motor overheating
+1,2,0,5,1,0,1,0,3,stops every 2 minutes
+1,1,0,5,2,0,0,5,3,motor overheating
+1,1,0,5,2,0,0,5,3,"stops working, on/off button suspected"
+0,1,0,5,2,0,0,5,3,"no longer sucks, drying hepa filter"
+0,0,1,28,1,0,0,0,1,"blocked elbows, possible hose clog"
+1,1,0,5,1,0,1,0,3,motor overheating
+1,1,0,5,2,0,0,5,3,"stops working, on/off button suspected"
+0,1,1,34,1,0,0,0,1,continuous loud noise
+0,1,0,5,2,3,0,0,2,"broken vacuum cleaner belt, needs replacement"
+1,2,0,5,1,0,1,0,3,stops every 2 minutes
+1,2,0,5,2,0,0,5,3,low suction efficiency
+0,2,0,5,1,0,1,0,3,stops every 2 minutes
+1,1,0,5,1,0,1,0,3,stops every 2 minutes
+1,2,0,5,1,0,1,0,3,battery not charging
+1,0,0,5,0,0,1,0,3,stops every 2 minutes
+1,2,0,5,2,0,0,5,3,makes terrible noise after cleaning filters
+0,2,0,5,2,3,0,0,3,stops every 2 minutes
+0,1,0,5,2,3,0,0,2,battery not charging
+0,1,0,5,2,0,0,5,3,"does not start, checking on/off button"
+0,2,0,5,2,3,0,0,3,stops every 2 minutes
+0,1,0,5,2,2,0,0,2,intermittent cut out in speeds 2 and 3
+0,1,0,5,2,2,0,0,2,continuous loud noise
+0,1,0,5,2,0,0,5,3,"does not start, checking on/off button"
+0,1,0,5,2,3,0,0,3,stops every 2 minutes
+0,2,0,5,2,3,0,0,3,stops every 2 minutes
+1,1,0,5,1,0,1,0,3,stops every 2 minutes
+1,1,0,5,1,0,1,0,3,stops every 2 minutes
+0,2,0,5,2,3,0,0,3,stops every 2 minutes
+0,2,0,5,2,3,0,0,3,continuous loud noise
+1,1,0,5,2,0,0,5,3,"stops working, on/off button suspected"
+0,1,0,5,2,0,1,0,2,"battery issue, cuts out in speeds 2 and 3"
+0,1,0,5,2,2,0,0,2,intermittent cut out in speeds 2 and 3
+0,1,0,5,2,3,0,0,2,motor overheating
+1,2,0,5,1,0,1,0,3,stops every 2 minutes
+0,2,0,5,1,0,0,0,2,no suction
+0,2,0,5,2,3,0,0,3,stops every 2 minutes
+0,2,0,5,2,2,0,0,2,"intermittent power failure, loose wiring suspected"
+0,1,0,5,2,2,0,0,2,intermittent cut out in speeds 2 and 3
+1,2,0,5,1,0,1,0,3,low suction efficiency
+0,1,0,5,2,2,0,0,2,intermittent cut out in speeds 2 and 3
+1,2,0,5,1,0,1,0,3,low suction efficiency
+1,1,0,5,1,0,1,0,3,stops every 2 minutes
+1,1,0,5,1,0,1,0,3,stops every 2 minutes
+0,1,0,5,2,0,0,5,3,"does not start, checking on/off button"
+1,2,0,5,1,0,1,0,3,stops every 2 minutes
+0,2,0,5,1,0,0,0,2,low suction efficiency
+1,2,0,5,1,0,1,0,3,unexpected shutdown
+1,0,0,5,2,0,0,0,3,low suction efficiency
+1,1,0,5,1,0,1,0,3,continuous loud noise
+1,2,0,5,1,0,1,0,3,stops every 2 minutes
+0,1,0,5,2,3,0,0,2,"broken vacuum cleaner belt, needs replacement"
+0,2,0,5,2,3,0,0,3,stops every 2 minutes
+1,2,0,5,1,0,1,0,3,unexpected shutdown
+1,2,0,5,1,0,1,0,3,low suction efficiency
+1,2,0,5,2,3,0,0,3,sensor control red
+1,1,0,5,1,0,1,0,3,stops every 2 minutes
+0,1,0,5,2,0,0,5,3,continuous loud noise
+0,2,0,5,1,0,0,0,2,no suction
+0,2,0,5,2,2,0,0,2,continuous loud noise
+1,1,0,5,1,0,1,0,3,continuous loud noise
+0,2,0,5,1,0,0,0,2,no suction
+0,1,0,5,2,0,0,5,3,low suction efficiency
+0,1,0,5,2,2,0,0,2,intermittent cut out in speeds 2 and 3
+1,1,0,5,1,0,1,0,3,battery not charging
+0,1,0,5,2,3,0,0,2,unexpected shutdown
+0,1,0,5,2,0,0,5,3,"does not start, checking on/off button"
+1,2,0,5,1,0,1,0,3,stops every 2 minutes
+1,1,0,5,1,0,1,0,3,unexpected shutdown
+1,1,0,5,2,0,0,5,3,"stops working, on/off button suspected"
+0,1,1,34,1,0,0,0,1,low suction efficiency
+0,1,0,5,2,0,1,0,2,continuous loud noise
+1,1,0,5,1,0,1,1,4,multiple clogs and overheating
+0,0,1,28,1,0,0,0,1,"blocked elbows, possible hose clog"
+1,1,0,5,1,0,1,0,3,stops every 2 minutes
+1,2,0,5,1,0,1,0,3,stops every 2 minutes
+0,2,0,5,2,2,0,0,2,"intermittent power failure, loose wiring suspected"
+0,2,0,5,2,3,0,0,3,motor overheating
+1,2,0,5,1,0,1,0,3,low suction efficiency
+0,1,0,5,2,3,0,0,3,stops every 2 minutes
+1,2,0,5,1,0,1,0,3,stops every 2 minutes
+0,1,0,5,2,2,0,0,2,unexpected shutdown
+0,2,0,5,2,3,0,0,3,stops every 2 minutes
+0,2,0,5,1,0,0,0,2,no suction
+1,2,0,5,1,0,1,0,3,stops every 2 minutes
+1,1,0,5,1,0,1,0,3,motor overheating
+0,1,0,5,2,0,0,5,3,"no longer sucks, drying hepa filter"
+0,1,0,5,2,0,0,5,3,"does not start, checking on/off button"
+0,1,0,5,2,3,0,0,2,"broken vacuum cleaner belt, needs replacement"
+0,1,0,5,2,0,0,5,3,"does not start, checking on/off button"
+1,1,0,5,1,0,1,0,3,stops every 2 minutes
+1,0,0,5,0,0,1,0,3,stops every 2 minutes
+0,1,0,5,2,0,0,5,3,battery not charging
+0,1,1,34,1,0,0,0,1,battery not charging
+0,1,1,34,1,0,0,0,1,clogged nozzle
+1,2,0,5,2,3,0,0,3,sensor control red
+0,1,0,5,2,0,0,5,3,"does not start, checking on/off button"
+0,1,0,5,2,0,0,5,3,low suction efficiency
+0,2,0,5,2,3,0,0,3,stops every 2 minutes
+1,2,0,5,1,0,1,0,3,stops every 2 minutes
+0,1,0,5,2,3,0,0,2,"broken vacuum cleaner belt, needs replacement"
+1,2,0,5,1,0,1,0,3,battery not charging
+0,1,0,5,2,3,0,0,2,battery not charging
+1,1,0,5,1,0,1,0,3,continuous loud noise
+0,1,0,11,1,3,0,0,1,low suction efficiency
+0,1,0,5,2,0,0,5,3,"no longer sucks, drying hepa filter"
+1,0,0,5,0,0,1,0,3,stops every 2 minutes
+1,1,0,5,1,0,1,0,3,stops every 2 minutes
+1,1,0,5,1,0,1,0,3,continuous loud noise
+1,1,0,5,1,0,1,0,3,low suction efficiency
+0,1,0,5,2,3,0,0,2,"broken vacuum cleaner belt, needs replacement"
+0,1,0,5,2,3,0,0,3,stops every 2 minutes
+1,0,0,5,2,0,0,0,3,"seeking durable vacuum for hardwood, medium-sized dog, and long hair"
+1,0,0,5,2,0,0,0,3,"seeking durable vacuum for hardwood, medium-sized dog, and long hair"
+0,0,1,28,1,0,0,0,1,"blocked elbows, possible hose clog"
+1,0,0,5,0,0,1,0,3,stops every 2 minutes
+1,2,0,5,2,0,0,5,3,makes terrible noise after cleaning filters
+1,2,0,5,2,0,0,5,3,unexpected shutdown
+0,2,0,5,1,0,0,0,2,no suction
+0,1,0,11,1,3,0,0,1,battery not charging
+0,0,1,28,1,0,0,0,1,"blocked elbows, possible hose clog"
+0,1,0,5,2,3,0,0,2,"broken vacuum cleaner belt, needs replacement"
+1,1,0,5,2,0,0,5,3,"stops working, on/off button suspected"
+0,1,0,5,2,3,0,0,2,motor overheating
+1,2,0,5,1,0,1,0,3,stops every 2 minutes
+0,2,0,5,1,0,0,0,2,no suction
+1,2,0,5,1,0,1,0,3,stops every 2 minutes
+1,1,0,5,1,0,1,0,3,motor overheating
+1,1,0,5,2,0,0,5,3,"stops working, on/off button suspected"
+0,0,1,28,1,0,0,0,1,battery not charging
+1,2,0,5,2,3,0,0,3,sensor control red
+1,2,0,5,1,0,1,0,3,stops every 2 minutes
+0,1,0,5,2,0,0,5,3,"does not start, checking on/off button"
+1,2,0,5,2,3,0,0,3,unexpected shutdown
+1,1,0,5,1,0,1,1,4,multiple clogs and overheating
+0,1,0,5,2,3,0,0,2,"broken vacuum cleaner belt, needs replacement"
+0,1,0,11,1,3,0,0,1,"battery pack not charging, possible wire issue"
+0,1,0,5,2,2,0,0,2,battery not charging
+0,1,0,5,2,0,1,0,2,continuous loud noise
+0,1,0,5,2,3,0,0,2,"broken vacuum cleaner belt, needs replacement"
+1,1,0,5,1,0,1,0,3,stops every 2 minutes
+0,1,0,5,2,0,0,5,3,"does not start, checking on/off button"
+0,1,1,34,1,0,0,0,1,clogged nozzle
+1,1,0,5,1,0,1,1,4,motor overheating
+1,1,0,5,1,0,1,0,3,motor overheating
+0,1,0,5,2,0,0,5,3,"does not start, checking on/off button"
+0,1,0,5,2,2,0,0,2,intermittent cut out in speeds 2 and 3
+1,0,0,5,2,0,0,0,3,"seeking durable vacuum for hardwood, medium-sized dog, and long hair"
+0,1,0,5,2,0,1,0,2,battery not charging
+0,2,0,5,2,3,0,0,3,stops every 2 minutes
+1,2,0,5,2,0,0,5,3,continuous loud noise
+0,2,0,5,2,3,0,0,3,stops every 2 minutes
+0,2,0,5,2,2,0,0,2,low suction efficiency
+1,1,0,5,1,0,1,0,3,stops every 2 minutes
+0,1,0,5,2,3,0,0,2,motor overheating
+0,2,0,5,2,3,0,0,3,stops every 2 minutes
+1,2,0,5,2,3,0,0,3,motor overheating
+0,2,0,5,2,2,0,0,2,"intermittent power failure, loose wiring suspected"
+0,1,1,34,1,0,0,0,1,continuous loud noise
+0,1,0,5,2,0,0,5,3,motor overheating
+0,2,0,5,1,0,1,0,3,continuous loud noise
+1,1,0,5,1,0,1,0,3,stops every 2 minutes
+0,1,0,5,2,0,0,5,3,"no longer sucks, drying hepa filter"
+1,2,0,5,1,0,1,0,3,motor overheating
+1,0,0,5,0,0,1,0,3,unexpected shutdown
+1,2,0,5,1,0,1,0,3,stops every 2 minutes
+1,1,0,5,1,0,1,0,3,stops every 2 minutes
+0,1,0,5,2,3,0,0,3,unexpected shutdown
+0,1,0,5,2,0,1,0,2,"battery issue, cuts out in speeds 2 and 3"
+0,2,0,5,2,3,0,0,3,stops every 2 minutes
+1,1,0,5,2,0,0,5,3,"stops working, on/off button suspected"
+0,2,0,5,1,0,0,0,2,no suction
+0,2,0,5,2,3,0,0,3,unexpected shutdown
+0,1,0,5,2,2,0,0,2,continuous loud noise
+0,1,0,5,2,0,1,0,2,"battery issue, cuts out in speeds 2 and 3"
+1,0,0,5,2,0,0,0,3,"seeking durable vacuum for hardwood, medium-sized dog, and long hair"
+0,1,1,34,1,0,0,0,1,clogged nozzle
+1,0,0,5,2,0,0,0,3,"seeking durable vacuum for hardwood, medium-sized dog, and long hair"
+1,0,0,5,2,0,0,0,3,"seeking durable vacuum for hardwood, medium-sized dog, and long hair"
+1,2,0,5,1,0,1,0,3,stops every 2 minutes
+0,2,0,5,2,3,0,0,3,stops every 2 minutes
+0,1,0,5,2,3,0,0,2,"broken vacuum cleaner belt, needs replacement"
+1,0,0,5,0,0,1,0,3,stops every 2 minutes
+1,2,0,5,1,0,1,0,3,stops every 2 minutes
+1,2,0,5,1,0,1,0,3,stops every 2 minutes
+1,2,0,5,1,0,1,0,3,low suction efficiency
+0,1,0,5,2,2,0,0,2,intermittent cut out in speeds 2 and 3
+0,0,1,28,1,0,0,0,1,"blocked elbows, possible hose clog"
+1,2,0,5,1,0,1,0,3,stops every 2 minutes
+0,2,0,5,1,0,1,0,3,battery not charging
+0,0,1,28,1,0,0,0,1,"blocked elbows, possible hose clog"
+0,2,0,5,1,0,0,0,2,no suction
+1,1,0,5,1,0,1,0,3,stops every 2 minutes
+0,2,0,5,1,0,0,0,2,continuous loud noise
+1,1,0,5,2,0,0,5,3,low suction efficiency
+0,2,0,5,2,2,0,0,2,"intermittent power failure, loose wiring suspected"
+0,2,0,5,2,2,0,0,2,unexpected shutdown
+0,1,0,5,2,0,1,0,2,low suction efficiency
+0,2,0,5,2,3,0,0,3,stops every 2 minutes
+0,1,0,5,2,3,0,0,3,stops every 2 minutes
+1,2,0,5,1,0,1,0,3,unexpected shutdown
+1,2,0,5,1,0,1,0,3,stops every 2 minutes
+0,2,0,5,1,0,0,0,2,no suction
+0,1,0,5,2,2,0,0,2,intermittent cut out in speeds 2 and 3
+0,1,1,34,1,0,0,0,1,clogged nozzle
+1,2,0,5,1,0,1,0,3,motor overheating
+1,2,0,5,1,0,1,0,3,unexpected shutdown
+1,2,0,5,1,0,1,0,3,motor overheating
+1,0,0,5,2,0,0,0,3,"seeking durable vacuum for hardwood, medium-sized dog, and long hair"
+1,2,0,5,2,3,0,0,3,sensor control red
+1,1,0,5,1,0,1,0,3,stops every 2 minutes
+0,1,0,5,2,3,0,0,3,continuous loud noise
+0,2,0,5,2,2,0,0,2,"intermittent power failure, loose wiring suspected"
+1,2,0,5,1,0,1,0,3,stops every 2 minutes
+1,0,0,5,2,0,0,0,3,"seeking durable vacuum for hardwood, medium-sized dog, and long hair"
+1,2,0,5,2,3,0,0,3,sensor control red
+1,2,0,5,2,3,0,0,3,sensor control red
+0,2,0,5,2,3,0,0,3,stops every 2 minutes
+1,0,0,5,0,0,1,0,3,stops every 2 minutes
+0,1,0,11,1,3,0,0,1,unexpected shutdown
+0,2,0,5,1,0,0,0,2,battery not charging
+0,1,0,5,2,0,1,0,2,"battery issue, cuts out in speeds 2 and 3"
+1,1,0,5,1,0,1,0,3,stops every 2 minutes
+1,1,0,5,1,0,1,0,3,motor overheating
+0,1,0,5,2,0,0,5,3,"does not start, checking on/off button"
+0,1,0,5,2,0,0,5,3,"does not start, checking on/off button"
+1,1,0,5,1,0,1,0,3,stops every 2 minutes
+1,0,0,5,2,0,0,0,3,"seeking durable vacuum for hardwood, medium-sized dog, and long hair"
+0,2,0,5,2,3,0,0,3,continuous loud noise
+0,1,0,5,2,0,0,5,3,"does not start, checking on/off button"
+0,0,1,28,1,0,0,0,1,unexpected shutdown
+0,2,0,5,2,3,0,0,3,stops every 2 minutes
+0,1,0,11,1,3,0,0,1,continuous loud noise
+0,1,0,5,2,3,0,0,2,"broken vacuum cleaner belt, needs replacement"
+0,1,0,5,2,3,0,0,3,stops every 2 minutes
+1,0,0,5,2,0,0,0,3,"seeking durable vacuum for hardwood, medium-sized dog, and long hair"
+0,1,1,34,1,0,0,0,1,clogged nozzle
+1,2,0,5,2,0,0,5,3,makes terrible noise after cleaning filters
+1,1,0,5,2,0,0,5,3,"stops working, on/off button suspected"
+1,2,0,5,1,0,1,0,3,low suction efficiency
+0,2,0,5,2,3,0,0,3,stops every 2 minutes
+1,1,0,5,1,0,1,0,3,stops every 2 minutes
+1,1,0,5,1,0,1,0,3,stops every 2 minutes
+0,1,0,11,1,3,0,0,1,"battery pack not charging, possible wire issue"
+0,2,0,5,2,3,0,0,3,low suction efficiency
+0,1,0,5,2,0,0,5,3,motor overheating
+1,2,0,5,1,0,1,0,3,stops every 2 minutes
+0,1,1,34,1,0,0,0,1,clogged nozzle
+1,1,0,5,1,0,1,0,3,stops every 2 minutes
+0,2,0,5,2,3,0,0,3,stops every 2 minutes
+0,2,0,5,2,2,0,0,2,"intermittent power failure, loose wiring suspected"
+0,2,0,5,2,3,0,0,3,stops every 2 minutes
+0,1,0,5,2,0,0,5,3,"no longer sucks, drying hepa filter"
+1,1,0,5,2,0,0,5,3,battery not charging
+1,1,0,5,1,0,1,0,3,stops every 2 minutes
+1,0,0,5,0,0,1,0,3,low suction efficiency
+1,1,0,5,1,0,1,0,3,motor overheating
+1,1,0,5,1,0,1,0,3,stops every 2 minutes
+1,2,0,5,1,0,1,0,3,stops every 2 minutes
+0,2,0,5,2,3,0,0,3,continuous loud noise
+1,2,0,5,1,0,1,0,3,battery not charging
+1,2,0,5,1,0,1,0,3,low suction efficiency
+1,2,0,5,2,3,0,0,3,sensor control red
+0,1,0,5,2,0,0,5,3,"does not start, checking on/off button"
+0,2,0,5,2,2,0,0,2,motor overheating
+0,2,0,5,1,0,0,0,2,no suction
+0,2,0,5,1,0,1,0,3,motor overheating
+1,1,0,5,1,0,1,0,3,stops every 2 minutes
+1,1,0,5,1,0,1,1,4,multiple clogs and overheating
+0,2,0,5,2,3,0,0,3,stops every 2 minutes
+1,0,0,5,0,0,1,0,3,stops every 2 minutes
+1,1,0,5,1,0,1,0,3,low suction efficiency
+0,1,0,5,2,0,1,0,2,motor overheating
+0,1,0,11,1,3,0,0,1,motor overheating
+1,2,0,5,1,0,1,0,3,stops every 2 minutes
+0,1,0,5,2,0,0,5,3,"does not start, checking on/off button"
+0,1,0,5,2,0,0,5,3,motor overheating
+0,2,0,5,2,2,0,0,2,"intermittent power failure, loose wiring suspected"
+0,1,1,34,1,0,0,0,1,clogged nozzle
+1,2,0,5,2,3,0,0,3,motor overheating
+0,2,0,5,2,3,0,0,3,motor overheating
+1,2,0,5,1,0,1,0,3,stops every 2 minutes
+0,1,1,34,1,0,0,0,1,unexpected shutdown
+1,1,0,5,1,0,1,0,3,stops every 2 minutes
+0,2,0,5,2,3,0,0,3,stops every 2 minutes
+0,1,0,5,2,0,0,5,3,"does not start, checking on/off button"
+1,2,0,5,1,0,1,0,3,continuous loud noise
+1,0,0,5,0,0,1,0,3,continuous loud noise
+0,1,0,5,2,0,0,5,3,"does not start, checking on/off button"
+1,1,0,5,1,0,1,0,3,stops every 2 minutes
+1,1,0,5,1,0,1,0,3,unexpected shutdown
+1,0,0,5,0,0,1,0,3,stops every 2 minutes
+0,1,0,5,2,3,0,0,2,"broken vacuum cleaner belt, needs replacement"
+1,2,0,5,1,0,1,0,3,stops every 2 minutes
+1,1,0,5,2,0,0,5,3,"stops working, on/off button suspected"
+1,1,0,5,1,0,1,0,3,stops every 2 minutes
+0,2,0,5,2,3,0,0,3,motor overheating
+1,0,0,5,0,0,1,0,3,stops every 2 minutes
+0,1,0,5,2,3,0,0,3,stops every 2 minutes
+0,2,0,5,1,0,0,0,2,no suction
+0,1,0,5,2,3,0,0,2,"broken vacuum cleaner belt, needs replacement"
+0,1,0,5,2,0,1,0,2,"battery issue, cuts out in speeds 2 and 3"
+0,1,0,5,2,0,0,5,3,"does not start, checking on/off button"
+1,0,0,5,2,0,0,0,3,"seeking durable vacuum for hardwood, medium-sized dog, and long hair"
+1,2,0,5,2,0,0,5,3,makes terrible noise after cleaning filters
+1,2,0,5,1,0,1,0,3,stops every 2 minutes
+1,1,0,5,1,0,1,0,3,stops every 2 minutes
+1,1,0,5,1,0,1,0,3,unexpected shutdown
+1,2,0,5,1,0,1,0,3,stops every 2 minutes
+1,2,0,5,1,0,1,0,3,stops every 2 minutes
+0,2,0,5,2,2,0,0,2,"intermittent power failure, loose wiring suspected"
+1,1,0,5,1,0,1,0,3,battery not charging
+1,2,0,5,2,0,0,5,3,makes terrible noise after cleaning filters
+0,2,0,5,2,3,0,0,3,stops every 2 minutes
+0,2,0,5,2,3,0,0,3,unexpected shutdown
+0,2,0,5,2,3,0,0,3,unexpected shutdown
+0,2,0,5,2,2,0,0,2,"intermittent power failure, loose wiring suspected"
+0,2,0,5,1,0,1,0,3,stops every 2 minutes
+0,1,0,5,2,2,0,0,2,intermittent cut out in speeds 2 and 3
+0,1,0,5,2,2,0,0,2,low suction efficiency
+1,2,0,5,1,0,1,0,3,stops every 2 minutes
+0,0,1,28,1,0,0,0,1,continuous loud noise
+0,1,0,5,2,0,1,0,2,unexpected shutdown
+0,2,0,5,2,3,0,0,3,stops every 2 minutes
+1,2,0,5,2,3,0,0,3,sensor control red
+0,2,0,5,1,0,1,0,3,stops every 2 minutes
+0,1,0,5,2,2,0,0,2,intermittent cut out in speeds 2 and 3
+1,1,0,5,1,0,1,0,3,low suction efficiency
+1,0,0,5,2,0,0,0,3,"seeking durable vacuum for hardwood, medium-sized dog, and long hair"
+1,1,0,5,2,0,0,5,3,"stops working, on/off button suspected"
+0,2,0,5,2,3,0,0,3,motor overheating
+1,2,0,5,1,0,1,0,3,stops every 2 minutes
+1,1,0,5,2,0,0,5,3,motor overheating
+1,1,0,5,2,0,0,5,3,"stops working, on/off button suspected"
+0,1,0,5,2,0,0,5,3,"no longer sucks, drying hepa filter"
+0,0,1,28,1,0,0,0,1,"blocked elbows, possible hose clog"
+1,1,0,5,1,0,1,0,3,motor overheating
+1,1,0,5,2,0,0,5,3,"stops working, on/off button suspected"
+0,1,1,34,1,0,0,0,1,continuous loud noise
+0,1,0,5,2,3,0,0,2,"broken vacuum cleaner belt, needs replacement"
+1,2,0,5,1,0,1,0,3,stops every 2 minutes
+1,2,0,5,2,0,0,5,3,low suction efficiency
+0,2,0,5,1,0,1,0,3,stops every 2 minutes
+1,1,0,5,1,0,1,0,3,stops every 2 minutes
+1,2,0,5,1,0,1,0,3,battery not charging
+1,0,0,5,0,0,1,0,3,stops every 2 minutes
+1,2,0,5,2,0,0,5,3,makes terrible noise after cleaning filters
+0,2,0,5,2,3,0,0,3,stops every 2 minutes
+0,1,0,5,2,3,0,0,2,battery not charging
+0,1,0,5,2,0,0,5,3,"does not start, checking on/off button"
+0,2,0,5,2,3,0,0,3,stops every 2 minutes
+0,1,0,5,2,2,0,0,2,intermittent cut out in speeds 2 and 3
+0,1,0,5,2,2,0,0,2,continuous loud noise
+0,1,0,5,2,0,0,5,3,"does not start, checking on/off button"
+0,1,0,5,2,3,0,0,3,stops every 2 minutes
+0,2,0,5,2,3,0,0,3,stops every 2 minutes
+1,1,0,5,1,0,1,0,3,stops every 2 minutes
+1,1,0,5,1,0,1,0,3,stops every 2 minutes
+0,2,0,5,2,3,0,0,3,stops every 2 minutes
+0,2,0,5,2,3,0,0,3,continuous loud noise
+1,1,0,5,2,0,0,5,3,"stops working, on/off button suspected"
+0,1,0,5,2,0,1,0,2,"battery issue, cuts out in speeds 2 and 3"
+0,1,0,5,2,2,0,0,2,intermittent cut out in speeds 2 and 3
+0,1,0,5,2,3,0,0,2,motor overheating
+1,2,0,5,1,0,1,0,3,stops every 2 minutes
+0,2,0,5,1,0,0,0,2,no suction
+0,2,0,5,2,3,0,0,3,stops every 2 minutes
+0,2,0,5,2,2,0,0,2,"intermittent power failure, loose wiring suspected"
+0,1,0,5,2,2,0,0,2,intermittent cut out in speeds 2 and 3
+1,2,0,5,1,0,1,0,3,low suction efficiency
+0,1,0,5,2,2,0,0,2,intermittent cut out in speeds 2 and 3
+1,2,0,5,1,0,1,0,3,low suction efficiency
+1,1,0,5,1,0,1,0,3,stops every 2 minutes
+1,1,0,5,1,0,1,0,3,stops every 2 minutes
+0,1,0,5,2,0,0,5,3,"does not start, checking on/off button"
+1,2,0,5,1,0,1,0,3,stops every 2 minutes
+0,2,0,5,1,0,0,0,2,low suction efficiency
+1,2,0,5,1,0,1,0,3,unexpected shutdown
+1,0,0,5,2,0,0,0,3,low suction efficiency
+1,1,0,5,1,0,1,0,3,continuous loud noise
+1,2,0,5,1,0,1,0,3,stops every 2 minutes
+0,1,0,5,2,3,0,0,2,"broken vacuum cleaner belt, needs replacement"
+0,2,0,5,2,3,0,0,3,stops every 2 minutes
+1,2,0,5,1,0,1,0,3,unexpected shutdown
+1,2,0,5,1,0,1,0,3,low suction efficiency
+1,2,0,5,2,3,0,0,3,sensor control red
+1,1,0,5,1,0,1,0,3,stops every 2 minutes
+0,1,0,5,2,0,0,5,3,continuous loud noise
+0,2,0,5,1,0,0,0,2,no suction
+0,2,0,5,2,2,0,0,2,continuous loud noise
+1,1,0,5,1,0,1,0,3,continuous loud noise
+0,2,0,5,1,0,0,0,2,no suction
+0,1,0,5,2,0,0,5,3,low suction efficiency
+0,1,0,5,2,2,0,0,2,intermittent cut out in speeds 2 and 3
+1,1,0,5,1,0,1,0,3,battery not charging
+0,1,0,5,2,3,0,0,2,unexpected shutdown
+0,1,0,5,2,0,0,5,3,"does not start, checking on/off button"
+1,2,0,5,1,0,1,0,3,stops every 2 minutes
+1,1,0,5,1,0,1,0,3,unexpected shutdown
+1,1,0,5,2,0,0,5,3,"stops working, on/off button suspected"
+0,1,1,34,1,0,0,0,1,low suction efficiency
+0,1,0,5,2,0,1,0,2,continuous loud noise
+1,1,0,5,1,0,1,1,4,multiple clogs and overheating
+0,0,1,28,1,0,0,0,1,"blocked elbows, possible hose clog"
+1,1,0,5,1,0,1,0,3,stops every 2 minutes
+1,2,0,5,1,0,1,0,3,stops every 2 minutes
+0,2,0,5,2,2,0,0,2,"intermittent power failure, loose wiring suspected"
+0,2,0,5,2,3,0,0,3,motor overheating
+1,2,0,5,1,0,1,0,3,low suction efficiency
+0,1,0,5,2,3,0,0,3,stops every 2 minutes
+1,2,0,5,1,0,1,0,3,stops every 2 minutes
+0,1,0,5,2,2,0,0,2,unexpected shutdown
+0,2,0,5,2,3,0,0,3,stops every 2 minutes
+0,2,0,5,1,0,0,0,2,no suction
+1,2,0,5,1,0,1,0,3,stops every 2 minutes
+1,1,0,5,1,0,1,0,3,motor overheating
+0,1,0,5,2,0,0,5,3,"no longer sucks, drying hepa filter"
+0,1,0,5,2,0,0,5,3,"does not start, checking on/off button"
+0,1,0,5,2,3,0,0,2,"broken vacuum cleaner belt, needs replacement"
+0,1,0,5,2,0,0,5,3,"does not start, checking on/off button"
+1,1,0,5,1,0,1,0,3,stops every 2 minutes
+1,0,0,5,0,0,1,0,3,stops every 2 minutes
+0,1,0,5,2,0,0,5,3,battery not charging
+0,1,1,34,1,0,0,0,1,battery not charging
+0,1,1,34,1,0,0,0,1,clogged nozzle
+1,2,0,5,2,3,0,0,3,sensor control red
+0,1,0,5,2,0,0,5,3,"does not start, checking on/off button"
+0,1,0,5,2,0,0,5,3,low suction efficiency
+0,2,0,5,2,3,0,0,3,stops every 2 minutes
+1,2,0,5,1,0,1,0,3,stops every 2 minutes
+0,1,0,5,2,3,0,0,2,"broken vacuum cleaner belt, needs replacement"
+1,2,0,5,1,0,1,0,3,battery not charging
+0,1,0,5,2,3,0,0,2,battery not charging
+1,1,0,5,1,0,1,0,3,continuous loud noise
+0,1,0,11,1,3,0,0,1,low suction efficiency
+0,1,0,5,2,0,0,5,3,"no longer sucks, drying hepa filter"
+1,0,0,5,0,0,1,0,3,stops every 2 minutes
+1,1,0,5,1,0,1,0,3,stops every 2 minutes
+1,1,0,5,1,0,1,0,3,continuous loud noise
+1,1,0,5,1,0,1,0,3,low suction efficiency
+0,1,0,5,2,3,0,0,2,"broken vacuum cleaner belt, needs replacement"
+0,1,0,5,2,3,0,0,3,stops every 2 minutes
+1,0,0,5,2,0,0,0,3,"seeking durable vacuum for hardwood, medium-sized dog, and long hair"
+1,0,0,5,2,0,0,0,3,"seeking durable vacuum for hardwood, medium-sized dog, and long hair"
+0,0,1,28,1,0,0,0,1,"blocked elbows, possible hose clog"
+1,0,0,5,0,0,1,0,3,stops every 2 minutes
+1,2,0,5,2,0,0,5,3,makes terrible noise after cleaning filters
+1,2,0,5,2,0,0,5,3,unexpected shutdown
+0,2,0,5,1,0,0,0,2,no suction
+0,1,0,11,1,3,0,0,1,battery not charging
+0,0,1,28,1,0,0,0,1,"blocked elbows, possible hose clog"
+0,1,0,5,2,3,0,0,2,"broken vacuum cleaner belt, needs replacement"
+1,1,0,5,2,0,0,5,3,"stops working, on/off button suspected"
+0,1,0,5,2,3,0,0,2,motor overheating
+1,2,0,5,1,0,1,0,3,stops every 2 minutes
+0,2,0,5,1,0,0,0,2,no suction
+1,2,0,5,1,0,1,0,3,stops every 2 minutes
+1,1,0,5,1,0,1,0,3,motor overheating
+1,1,0,5,2,0,0,5,3,"stops working, on/off button suspected"
+0,0,1,28,1,0,0,0,1,battery not charging
+1,2,0,5,2,3,0,0,3,sensor control red
+1,2,0,5,1,0,1,0,3,stops every 2 minutes
+0,1,0,5,2,0,0,5,3,"does not start, checking on/off button"
+1,2,0,5,2,3,0,0,3,unexpected shutdown
+1,1,0,5,1,0,1,1,4,multiple clogs and overheating
+0,1,0,5,2,3,0,0,2,"broken vacuum cleaner belt, needs replacement"
+0,1,0,11,1,3,0,0,1,"battery pack not charging, possible wire issue"
+0,1,0,5,2,2,0,0,2,battery not charging
+0,1,0,5,2,0,1,0,2,continuous loud noise
+0,1,0,5,2,3,0,0,2,"broken vacuum cleaner belt, needs replacement"
+1,1,0,5,1,0,1,0,3,stops every 2 minutes
+0,1,0,5,2,0,0,5,3,"does not start, checking on/off button"
+0,1,1,34,1,0,0,0,1,clogged nozzle
+1,1,0,5,1,0,1,1,4,motor overheating
+1,1,0,5,1,0,1,0,3,motor overheating
+0,1,0,5,2,0,0,5,3,"does not start, checking on/off button"
+0,1,0,5,2,2,0,0,2,intermittent cut out in speeds 2 and 3
+1,0,0,5,2,0,0,0,3,"seeking durable vacuum for hardwood, medium-sized dog, and long hair"
+0,1,0,5,2,0,1,0,2,battery not charging
+0,2,0,5,2,3,0,0,3,stops every 2 minutes
+1,2,0,5,2,0,0,5,3,continuous loud noise
+0,2,0,5,2,3,0,0,3,stops every 2 minutes
+0,2,0,5,2,2,0,0,2,low suction efficiency
+1,1,0,5,1,0,1,0,3,stops every 2 minutes
+0,1,0,5,2,3,0,0,2,motor overheating
+0,2,0,5,2,3,0,0,3,stops every 2 minutes
+1,2,0,5,2,3,0,0,3,motor overheating
+0,2,0,5,2,2,0,0,2,"intermittent power failure, loose wiring suspected"
+0,1,1,34,1,0,0,0,1,continuous loud noise
+0,1,0,5,2,0,0,5,3,motor overheating
+0,2,0,5,1,0,1,0,3,continuous loud noise
+1,1,0,5,1,0,1,0,3,stops every 2 minutes
+0,1,0,5,2,0,0,5,3,"no longer sucks, drying hepa filter"
+1,2,0,5,1,0,1,0,3,motor overheating
+1,0,0,5,0,0,1,0,3,unexpected shutdown
+1,2,0,5,1,0,1,0,3,stops every 2 minutes
+1,1,0,5,1,0,1,0,3,stops every 2 minutes
+0,1,0,5,2,3,0,0,3,unexpected shutdown
+0,1,0,5,2,0,1,0,2,"battery issue, cuts out in speeds 2 and 3"
+0,2,0,5,2,3,0,0,3,stops every 2 minutes
+1,1,0,5,2,0,0,5,3,"stops working, on/off button suspected"
+0,2,0,5,1,0,0,0,2,no suction
+0,2,0,5,2,3,0,0,3,unexpected shutdown
+0,1,0,5,2,2,0,0,2,continuous loud noise
+0,1,0,5,2,0,1,0,2,"battery issue, cuts out in speeds 2 and 3"
+1,0,0,5,2,0,0,0,3,"seeking durable vacuum for hardwood, medium-sized dog, and long hair"
+0,1,1,34,1,0,0,0,1,clogged nozzle
+1,0,0,5,2,0,0,0,3,"seeking durable vacuum for hardwood, medium-sized dog, and long hair"
+1,0,0,5,2,0,0,0,3,"seeking durable vacuum for hardwood, medium-sized dog, and long hair"
+1,2,0,5,1,0,1,0,3,stops every 2 minutes
+0,2,0,5,2,3,0,0,3,stops every 2 minutes
+0,1,0,5,2,3,0,0,2,"broken vacuum cleaner belt, needs replacement"
+1,0,0,5,0,0,1,0,3,stops every 2 minutes
+1,2,0,5,1,0,1,0,3,stops every 2 minutes
+1,2,0,5,1,0,1,0,3,stops every 2 minutes
+1,2,0,5,1,0,1,0,3,low suction efficiency
+0,1,0,5,2,2,0,0,2,intermittent cut out in speeds 2 and 3
+0,0,1,28,1,0,0,0,1,"blocked elbows, possible hose clog"
+1,2,0,5,1,0,1,0,3,stops every 2 minutes
+0,2,0,5,1,0,1,0,3,battery not charging
+0,0,1,28,1,0,0,0,1,"blocked elbows, possible hose clog"
+0,2,0,5,1,0,0,0,2,no suction
+1,1,0,5,1,0,1,0,3,stops every 2 minutes
+0,2,0,5,1,0,0,0,2,continuous loud noise
+1,1,0,5,2,0,0,5,3,low suction efficiency
+0,2,0,5,2,2,0,0,2,"intermittent power failure, loose wiring suspected"
+0,2,0,5,2,2,0,0,2,unexpected shutdown
+0,1,0,5,2,0,1,0,2,low suction efficiency
+0,2,0,5,2,3,0,0,3,stops every 2 minutes
+0,1,0,5,2,3,0,0,3,stops every 2 minutes
+1,2,0,5,1,0,1,0,3,unexpected shutdown
+1,2,0,5,1,0,1,0,3,stops every 2 minutes
+0,2,0,5,1,0,0,0,2,no suction
+0,1,0,5,2,2,0,0,2,intermittent cut out in speeds 2 and 3
+0,1,1,34,1,0,0,0,1,clogged nozzle
+1,2,0,5,1,0,1,0,3,motor overheating
+1,2,0,5,1,0,1,0,3,unexpected shutdown
+1,2,0,5,1,0,1,0,3,motor overheating
+1,0,0,5,2,0,0,0,3,"seeking durable vacuum for hardwood, medium-sized dog, and long hair"
+1,2,0,5,2,3,0,0,3,sensor control red
+1,1,0,5,1,0,1,0,3,stops every 2 minutes
+0,1,0,5,2,3,0,0,3,continuous loud noise
+0,2,0,5,2,2,0,0,2,"intermittent power failure, loose wiring suspected"
+1,2,0,5,1,0,1,0,3,stops every 2 minutes
+1,0,0,5,2,0,0,0,3,"seeking durable vacuum for hardwood, medium-sized dog, and long hair"
+1,2,0,5,2,3,0,0,3,sensor control red
